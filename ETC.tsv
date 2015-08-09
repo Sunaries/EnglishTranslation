@@ -1580,7 +1580,7 @@ ETC_20150317_001579	Failed to purchase item! An unknown error has occurred.
 ETC_20150317_001580	Too close
 ETC_20150317_001581	{S20}{ol}{#46ffc8} Not enough stamina.
 ETC_20150317_001582	Object needed for the skill is not available.
-ETC_20150317_001583	You cannot equip secondary equipment when wearing a Two-Hand weapon.
+ETC_20150317_001583	You cannot equip secondary equipment when wearing a two-handed weapon.
 ETC_20150317_001584	You cannot use 'Return' during Rest Mode.
 ETC_20150317_001585	Another character has taken the request.
 ETC_20150317_001586	The previous game did not end.
@@ -1608,7 +1608,7 @@ ETC_20150317_001607	You cannot install or summon in invalid coordinates
 ETC_20150317_001608	Changed
 ETC_20150317_001609	It is too close to the existing Ice Barrier
 ETC_20150317_001610	You have already learned this attribute.
-ETC_20150317_001611	{S18}{ol}{#ffffcc} Do you want to learn the attribute(s)?
+ETC_20150317_001611	{S18}{ol}{#ffffcc} Do you want to learn this attribute?
 ETC_20150317_001612	Enter the number
 ETC_20150317_001613	This item cannot be traded
 ETC_20150317_001614	You cannot rest during combat
@@ -1617,8 +1617,8 @@ ETC_20150317_001616	The number of purchasable items is limited
 ETC_20150317_001617	24 hours has not yet passed since changing name
 ETC_20150317_001618	{Auto_1} can not be greater than the bytes
 ETC_20150317_001619	Character Name
-ETC_20150317_001620	You do not have enough ingredients
-ETC_20150317_001621	{S18}{ol}{#ffffcc}Connecting to server...
+ETC_20150317_001620	You do not have sufficient material.
+ETC_20150317_001621	{S18}{ol}{#ffffcc}Connecting to the server...
 ETC_20150317_001622	This item cannot be discarded.
 ETC_20150317_001623	{@st46} Congratulations! Your character level has increased.
 ETC_20150317_001624	{Auto_1} Series
@@ -1692,9 +1692,9 @@ ETC_20150317_001691	Deposit
 ETC_20150317_001692	Re-enhance
 ETC_20150317_001693	Click an item to enhance
 ETC_20150317_001694	Success!!
-ETC_20150317_001695	Enhancement Failed!!!
+ETC_20150317_001695	Failed!!!
 ETC_20150317_001696	No empty socket matching this type
-ETC_20150317_001697	Please drag the item you wish to enhance
+ETC_20150317_001697	Please drag the item you wish to enhance.
 ETC_20150317_001698	Card Enhancement
 ETC_20150317_001699	Gem Enhancement
 ETC_20150317_001700	You cannot mount any more.
@@ -1711,10 +1711,10 @@ ETC_20150317_001710	Tree
 ETC_20150317_001711	Quest
 ETC_20150317_001712	Weapon
 ETC_20150317_001713	Armor
-ETC_20150317_001714	Two-Hand Sword
+ETC_20150317_001714	Two-Handed Sword
 ETC_20150317_001715	Bow
 ETC_20150317_001716	Crossbow
-ETC_20150317_001717	One-Hand Sword
+ETC_20150317_001717	One-Handed Sword
 ETC_20150317_001718	Wand
 ETC_20150317_001719	Blunt
 ETC_20150317_001720	Others
@@ -1752,7 +1752,7 @@ ETC_20150317_001751	Sub-weapon
 ETC_20150317_001752	Rod
 ETC_20150317_001753	Coat
 ETC_20150317_001754	Hat
-ETC_20150317_001755	Two-Hand Spear
+ETC_20150317_001755	Two-Handed Spear
 ETC_20150317_001756	Place items in the window
 ETC_20150317_001757	Gem
 ETC_20150317_001758	Socket
@@ -2931,7 +2931,7 @@ ETC_20150317_002930	You have an item with less than 30% durability remaining.
 ETC_20150317_002931	You have an item with 0 durability remaining.
 ETC_20150317_002932	This equipped item cannot be consumed.
 ETC_20150317_002933	This enhanced item cannot be consumed.
-ETC_20150317_002934	Your enhanced item will be consumed. Are you sure you want to proceed?
+ETC_20150317_002934	Your enhanced item will be consumed. {nl} Are you sure you want to proceed?
 ETC_20150317_002935	The field boss will appear in a while
 ETC_20150317_002936	This is a preparation function.
 ETC_20150317_002937	{@st59} Party members will be able to see it if you click the button
@@ -4807,16 +4807,16 @@ ETC_20150317_004806	Bram table was disappears aura of turbidity is installed.
 ETC_20150317_004807	During clearly won
 ETC_20150317_004808	Repair
 ETC_20150317_004809	Secondary Equipment
-ETC_20150317_004810	One-Hand Sword
-ETC_20150317_004811	Two-Hand Sword
+ETC_20150317_004810	One-Handed Sword
+ETC_20150317_004811	Two-Handed Sword
 ETC_20150317_004812	Rod
 ETC_20150317_004813	Staff
 ETC_20150317_004814	Bow
 ETC_20150317_004815	Crossbow
 ETC_20150317_004816	Blunt
 ETC_20150317_004817	Wand
-ETC_20150317_004818	One-Hand Spear
-ETC_20150317_004819	Two-Hand Spear
+ETC_20150317_004818	One-Handed Spear
+ETC_20150317_004819	Two-Handed Spear
 ETC_20150317_004820	Shield
 ETC_20150317_004821	Dagger
 ETC_20150317_004822	Woah, what's this taste?
@@ -6244,7 +6244,7 @@ ETC_20150317_006244	{S18} {#001100} You can progress the quest by pressing the S
 ETC_20150317_006245	{S18} {#001100} You can increase the capacity value by collecting items to the collection. {/}
 ETC_20150317_006246	Swordsmen are warriors who have strong physical abilities. They use various weapons to deal with enemies up close at the front line.
 ETC_20150317_006247	Highlander
-ETC_20150317_006248	Highlanders are tough fighters and use two-hand swords. They make enemies collide with each other or terrain so they are great for handling multiple enemies.
+ETC_20150317_006248	Highlanders are tough fighters and use two-handed swords. They make enemies collide with each other or terrain so they are great for handling multiple enemies.
 ETC_20150317_006249	Peltasta
 ETC_20150317_006250	Peltastas are defensive warriors who use shields to block enemy attacks and provoke the enemy.
 ETC_20150317_006251	Hoplites use spears with a long attack range. They gain a bonus when fighting against strong, large-sized enemies.
@@ -6253,7 +6253,7 @@ ETC_20150317_006253	Centurions command the battle with formations.
 ETC_20150317_006254	Barbarian
 ETC_20150317_006255	Barbarians are reckless and aggressive warriors who are not bound to any formats in battle and would do anything to claim victory in their hands.
 ETC_20150317_006256	Cataphract
-ETC_20150317_006257	Cataphracts use two hand spears. They are the cavalry who break through and scatter the enemy formations.
+ETC_20150317_006257	Cataphracts use two-handed spears. They are the cavalry who break through and scatter the enemy formations.
 ETC_20150317_006258	Corsair
 ETC_20150317_006259	Doppelsoeldner
 ETC_20150317_006260	Rodelero
@@ -8128,10 +8128,10 @@ ETC_20150317_008128	Square
 ETC_20150317_008129	Diamond
 ETC_20150317_008130	Star
 ETC_20150317_008131	Empty
-ETC_20150317_008132	Two-Hand Sword Stance
-ETC_20150317_008133	One-Hand Sword Stance
-ETC_20150317_008134	One-Hand Sword Shield Stance
-ETC_20150317_008135	Two-Hand Bow Stance
+ETC_20150317_008132	Two-Handed Sword Stance
+ETC_20150317_008133	One-Handed Sword Stance
+ETC_20150317_008134	One-Handed Sword Shield Stance
+ETC_20150317_008135	Two-Handed Bow Stance
 ETC_20150317_008136	Blunt Shield Stance
 ETC_20150317_008137	Blunt Stance
 ETC_20150317_008138	Wizard One-Hand Staff
@@ -8141,7 +8141,7 @@ ETC_20150317_008141	Crossbow Stance
 ETC_20150317_008142	Double Arrow Stance
 ETC_20150317_008143	Secondary Bow Stance
 ETC_20150317_008144	Bow Shield Stance
-ETC_20150317_008145	One-Hand Spear Stance
+ETC_20150317_008145	One-Handed Spear Stance
 ETC_20150317_008146	One-Hand Spear Shield Stance
 ETC_20150317_008147	Two-Hand Spear Stance
 ETC_20150317_008148	Wizard Two-Hand Staff
@@ -11386,7 +11386,7 @@ ETC_20150428_011387	Recipe - Firangi
 ETC_20150428_011388	Recipe - Thorn Cutter
 ETC_20150428_011389	Recipe - Zweihander
 ETC_20150428_011390	Recipe - Executioner's Sword
-ETC_20150428_011391	Recipe - Lumai Two-Hand Sword
+ETC_20150428_011391	Recipe - Lumai Two-Handed Sword
 ETC_20150428_011392	Recipe - Elder Sword
 ETC_20150428_011393	Recipe - Meteor Sword
 ETC_20150428_011394	Recipe - Ring Rod
@@ -11439,7 +11439,7 @@ ETC_20150428_011440	FAQ : Changing Channels{nl}1) You can change channels by cli
 ETC_20150428_011441	FAQ : Rest Mode{nl}1) Use "insert" key to switch to Rest Mode. {nl}2) HP, SP, STA is recovered. {nl}3) You can set up a camp fire, manufacture items, enhance gems, combine cards, etc in Rest Mode{nl} You need "firewood" to build a bonfire. {nl} HP, SP, STA is recovered faster when you use a bonfire.{nl}Other functions will be added in the future.
 ETC_20150428_011442	FAQ : Durability and Potential{nl}1) Durability : It will start to decrease a bit when you play with the equipment on.{nl}    When the durability decreases under the certain level, the item's icon will be displayed on the right side of quick slot.{nl}   When the durability completely diminishes, you won't be benefited from the equipment's effects.{nl}2) Potential : It will decrease when you are trading an equipment item or enhance an item, and the item with it's potential all depleted will can't be traded nor enhanced.
 ETC_20150428_011443	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil. {nl}2) You can buy anvils from the Tools Merchants in town. {nl}3) Silver is required everytime you enhance an item.{nl}4)The enhancement of weapons and armor has a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
-ETC_20150428_011444	FAQ : Attributes{nl}1) There are attributes that you can learn from the Masters of your class. {nl}2) You can learn different types of attributes depending on the class. {nl} For example, if you advance to Highlander, you can learn Two-Hand sword attributes from Highlander Master and use Two-Hand swords. {nl}3) Masters who teach attributes are located all around the map.
+ETC_20150428_011444	FAQ : Attributes{nl}1) There are attributes that you can learn from the Masters of your class. {nl}2) You can learn different types of attributes depending on the class. {nl} For example, if you advance to Highlander, you can learn two-handed sword attributes from Highlander Master and use two-handed swords. {nl}3) Masters who teach attributes are located all around the map.
 ETC_20150428_011445	FAQ : Charge Skill{nl}1) Charge skills are triggered only when you press down the quick slot button of the skill. {nl}2) Skill is canceled when you are attacked while using the skill.
 ETC_20150428_011446	FAQ : System Menu{nl}1) You can change to "Joypad UI Mode" from game settings when using Joypad. {nl}2) You can play using "Low-spec Mode" if your computer has low system requirements.
 ETC_20150428_011447	FAQ : Chatting{nl}1) Shout: Enter "/y" before your message to show your message to all players. {nl} But, you need the "Megaphone" to do so. {nl}2) Party Chat: Enter "/p" before your message to chat with your party. {nl}Whisper: Enter "/w Team Name" before your message to talk privately with the player of that Team Name.
@@ -12654,7 +12654,7 @@ ETC_20150714_012655	Arrived without getting caught by the guard!
 ETC_20150714_012656	Another player is holding onto the object
 ETC_20150714_012657	Event Requirements
 ETC_20150714_012658	Already being processed. If you don't want it, click Cancel.
-ETC_20150714_012659	The item you've registered to craft is enhanced. Are you going to use it as a material?
+ETC_20150714_012659	The item you're going to add is enhanced. Are you sure using it as material?
 ETC_20150714_012660	Electricity Property
 ETC_20150714_012661	Poison Property
 ETC_20150714_012662	Fire Property
@@ -12665,14 +12665,14 @@ ETC_20150714_012666	Gender Property
 ETC_20150714_012667	Barracks theme changed.
 ETC_20150714_012668	Like!
 ETC_20150714_012669	Cancel Like!
-ETC_20150714_012670	The other party rejected 
+ETC_20150714_012670	The other party declined 
 ETC_20150714_012671	Not enough party members (%d/%d)
 ETC_20150714_012672	{Name} invited you to {PVPName}. Would you like to join? 
 ETC_20150714_012673	You've invited the party members. Wait for their responses.
 ETC_20150714_012674	{Killer} defeated {Killee}
 ETC_20150714_012675	{Killee} was defeated by {Killer}
-ETC_20150714_012676	({PC}) Watch
-ETC_20150714_012677	Are you going to watch this game?
+ETC_20150714_012676	Spectate {PC}
+ETC_20150714_012677	Do you want to spectate this game?
 ETC_20150714_012678	Purchase Point
 ETC_20150714_012679	The name of the party is either too long or too short.
 ETC_20150714_012680	The party of {FamilyName}
