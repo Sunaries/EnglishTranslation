@@ -1005,7 +1005,7 @@ SKILL_20150317_001004	$Frenzy
 SKILL_20150317_001005	$Increases your attack when you use consecutive basic attacks on the target.
 SKILL_20150317_001006	$Attack +#{CaptionRatio}# {nl} Stacks up to #{CaptionRatio2}# times {nl} Duration #{CaptionTime}# seconds
 SKILL_20150317_001007	Aggressor
-SKILL_20150317_001008	$Your attack is guaranteed to hit, but your Critical Rate and Critical Evasion decreases.
+SKILL_20150317_001008	$Your attacks are guaranteed to hit, but your Critical Rate and Critical Evasion decreases.
 SKILL_20150317_001009	Critical Chance -#{CaptionRatio}#%{nl}Critical Evasion -#{CaptionRatio}#%{nl}Duration #{CaptionTime}# seconds
 SKILL_20150317_001010	Savagery
 SKILL_20150317_001011	$While the buff is active, a continuous attack bonus applies to {#DD5500}{ol}[Pierce]{/}{/} attacks.
@@ -4244,77 +4244,77 @@ SKILL_20150714_004243	Number of buff you can receive
 SKILL_20150714_004244	The duration of benefical buff will stop.
 SKILL_20150714_004245	Decrease Cooltime 20 %
 SKILL_20150714_004246	Dash Run
-SKILL_20150714_004247	Skill Cooltime 20% Increase
-SKILL_20150714_004248	Item Awakening : Dugeon Event
-SKILL_20150714_004249	Increase Physical and magic attack
+SKILL_20150714_004247	$Skill Cooldown increased by 20%
+SKILL_20150714_004248	$Item Awakening: Dungeon Event
+SKILL_20150714_004249	$Increase Physical and Magic Attack
 SKILL_20150714_004250	A status effect can activate Will of Guard
 SKILL_20150714_004251	A status effect can activate Rage of Earth
 SKILL_20150714_004252	Shovel status effect
 SKILL_20150714_004253	Status effect can activate Legacy of Legwyn Family
-SKILL_20150714_004254	Block Increase
-SKILL_20150714_004255	Block Increase
-SKILL_20150714_004256	Critical Attack Increase
-SKILL_20150714_004257	Magic Amplification Increase
-SKILL_20150714_004258	Magic Amplification Increase
-SKILL_20150714_004259	Armorr Penetration
-SKILL_20150714_004260	Decrease Physical Defense
-SKILL_20150714_004261	You can change weapons.
-SKILL_20150714_004262	$You can equip [One-Handed sword] type weapon.
-SKILL_20150714_004263	$You can equip [Two-Handed sword] type weapon.
-SKILL_20150714_004264	$You can equip [One-Handed spear] type weapon.
-SKILL_20150714_004265	$You can equip [Two-Handed spear] type weapon.
-SKILL_20150714_004266	You can equip [Bow] type weapon.
-SKILL_20150714_004267	You can equip [Crossbow] type weapon.
-SKILL_20150714_004268	You can equip [Rod] type weapon.
-SKILL_20150714_004269	You can equip [Staff] type weapon.
-SKILL_20150714_004270	You can equip [Mace] type weapon.
-SKILL_20150714_004271	You can equip [Wand] type weapon.
-SKILL_20150714_004272	You can equip [Handgun] type weapon.
-SKILL_20150714_004273	Cloth Mastery : Magic
-SKILL_20150714_004274	Max SP and Magic DEF increase based on amount of [Cloth] armor equipped and Attribute level ()3 ~).
-SKILL_20150714_004275	Leather Mastery : Dexterity
-SKILL_20150714_004276	Evasion increases based on amount of [Leather] armor equipped and Attribute level. (3 ~)
-SKILL_20150714_004277	Plate Mastery : Defence
-SKILL_20150714_004278	Max HP and Physical DEF increase based on amount of [Plate] armor equipped and Attribute level. (3 ~)
-SKILL_20150714_004279	Dagger Mastery
-SKILL_20150714_004280	Incurs additional 20 damage per Attribute level whenever attack from an enemy's back with dagger.
-SKILL_20150714_004281	Get on Companion
-SKILL_20150714_004282	You can get on a Companion.
-SKILL_20150714_004283	The amount of [Bash] damage incurred on an enemy increases by 1% per Attribute level.
-SKILL_20150714_004284	Increases the damage dealt on an enemy with [Thrust] by 1% per attribute level.
-SKILL_20150714_004285	The amount of [Pommel Beat] damage incurred on an enemy increases by 1% per Attribute level.
-SKILL_20150714_004286	The amount of [Double Slash] damage incurred on an enemy increases by 1% per Attribute level.
-SKILL_20150714_004287	Splash adds onto skill [Bash] by 1 per Attribute level.
-SKILL_20150714_004288	When using [Thrust], repetitive attacks get activated by 1% probability per Attribute level.
-SKILL_20150714_004289	Double Slash: Critical Rate increases
-SKILL_20150714_004290	Critical Rate of skill [Double Slash] increases by 5%
-SKILL_20150714_004291	Restrain: Slow
-SKILL_20150714_004292	The enemy in stun status due to [Restrain] effects will be in Slow after Stun gets removed. Slow will be increased by 3 secs per Attribute level.
-SKILL_20150714_004293	Duration time of stun of skill [Restrain] will be increased by 1 sec per Attribute level.
-SKILL_20150714_004294	Damage that will be incurred on an enemy by [Rim Blow] will be increased by 1% per Attribute level.
-SKILL_20150714_004295	Damage that will be incurred on an enemy by [Umbo Blow] will be increased by 1% per Attribute level.
-SKILL_20150714_004296	Damage that will be incurred on an enemy by [Shield Lob] will be increased by 1% per Attribute level.
-SKILL_20150714_004297	Damage that will be incurred on an enemy by [Butterfly] will be increased by 1% per Attribute level.
-SKILL_20150714_004298	Increases the maximum HP of your character by 5% per attribute level while [Swash Buckling] is active. 
-SKILL_20150714_004299	The enemy that is attacked by [Umbo Blow] will fall into Stun with 5% probability per Attribute level.
-SKILL_20150714_004300	Splash will be added onto [Shield Lob] by 1 per Attribute level.
-SKILL_20150714_004301	Block will increase by 5% per Attribute level when [Shield Equipped]
-SKILL_20150714_004302	After equipped with a shield, you can use [Guard] using C button.
-SKILL_20150714_004303	The enemy that is attacked by [Umbo Blow] will fall down, and the power that makes the enemy fall down will increase by 40 per Attribute level.
-SKILL_20150714_004304	When using the skill [High Guard], the defence will increase by 1 per Attribute level.
-SKILL_20150714_004305	High Guard: Specialized in Rim Blow
-SKILL_20150714_004306	When using the skill [High Guard], the damage of [Rim Blow] will be increased to 250%. From level 2, damage will increase by 20% per Attribute level.
-SKILL_20150714_004307	High Guard: Specialized in Umbo Blow
-SKILL_20150714_004308	When using the skill [High Guard], the damage of [Umbo Blow] will be increased to 250%. From level 2, damage will increase by 20% per Attribute level.
-SKILL_20150714_004309	Guardian: Evasion
-SKILL_20150714_004310	While [Guardian] is activated, a character's eveasion will increase by 6% per Attribute level.
-SKILL_20150714_004311	The damage that will be dealt on an enemy with [Catastroke] will increase by 1% per Attribute level.
-SKILL_20150714_004312	The damage that will be dealt on an enemy with [Crown] will increase by 1% per Attribute level.
-SKILL_20150714_004313	The damage that will be dealt on an enemy with [Wagon Wheel] will increase by 1% per Attribute level.
-SKILL_20150714_004314	The damage that will be dealt on an enemy with [Moulinet] will increase by 1% per Attribute level.
-SKILL_20150714_004315	Skull Swing: Enhancement
-SKILL_20150714_004316	The damage that will be dealt on an enemy with [Skull Swing] will increase by 1% per Attribute level.
-SKILL_20150714_004317	The pushing power of the skill [Catastroke] will increase by 50 per Attribute level.
+SKILL_20150714_004254	$Block Increase
+SKILL_20150714_004255	$Increase Block
+SKILL_20150714_004256	$Increase Critical Attack
+SKILL_20150714_004257	$Magic Amplification Increase
+SKILL_20150714_004258	$Increase Magic Amplification
+SKILL_20150714_004259	$Armor Penetration
+SKILL_20150714_004260	$Decrease Physical Defense
+SKILL_20150714_004261	$You can change weapons.
+SKILL_20150714_004262	$You can equip the [One-handed Sword] weapon type.
+SKILL_20150714_004263	$You can equip the [Two-handed Sword] weapon type.
+SKILL_20150714_004264	$You can equip the [One-handed Spear] weapon type.
+SKILL_20150714_004265	$You can equip the [Two-handed Spear] weapon type.
+SKILL_20150714_004266	$You can equip the [Bow] weapon type.
+SKILL_20150714_004267	$You can equip the [Crossbow] weapon type.
+SKILL_20150714_004268	$You can equip the [Rod] weapon type.
+SKILL_20150714_004269	$You can equip the [Staff] weapon type.
+SKILL_20150714_004270	$You can equip the [Mace] weapon type.
+SKILL_20150714_004271	$You can equip the [Wand] weapon type.
+SKILL_20150714_004272	$You can equip the [Pistol] type weapon.
+SKILL_20150714_004273	$Cloth Mastery: Magic
+SKILL_20150714_004274	$Able to equip [Cloth] armor. In addition, increases your maximum SP and Magic Defense depending on the number of equipped [Cloth] armor and the attribute level. (Applies from 3 armor pieces)
+SKILL_20150714_004275	$Leather Mastery: Dexterity
+SKILL_20150714_004276	$Able to equip [Leather] armor. In addition, increases your Evasion depending on the number of equipped [Leather] armor and the attribute level. (Applies from 3 armor pieces)
+SKILL_20150714_004277	$Plate Mastery: Defense
+SKILL_20150714_004278	$Able to equip [Plate] armor. In addition, increases your maximum HP and Physical Defense depending on the number of equipped [Plate] armor and the attribute level. (Applies from 3 armor pieces)
+SKILL_20150714_004279	$Dagger Mastery
+SKILL_20150714_004280	$Deals 20 additional damage per attribute level when attacking behind the enemy with a dagger. 
+SKILL_20150714_004281	$Companion Riding
+SKILL_20150714_004282	$You can mount a Companion.
+SKILL_20150714_004283	$Increases the damage dealt on an enemy with [Bash] by 1% per attribute level.
+SKILL_20150714_004284	$Increases the damage dealt on an enemy with [Thrust] by 1% per attribute level.
+SKILL_20150714_004285	$Increases the damage dealt on an enemy with [Pommel Beat] by 1% per attribute level.
+SKILL_20150714_004286	$Increases the damage dealt on an enemy with [Double Slash] by 1% per attribute level.
+SKILL_20150714_004287	$Splash will be added onto [Bash] by 1 per attribute level.
+SKILL_20150714_004288	$Activates consecutive attacks when using [Thrust] by 1% per attribute level.
+SKILL_20150714_004289	$Double Slash: Critical Chance Increase
+SKILL_20150714_004290	$Increases the Critical Chance of [Double Slash] by 5% per attribute level.
+SKILL_20150714_004291	$Restrain: Slow
+SKILL_20150714_004292	$Due to the effects of [Restrain], stunned enemies becomes slowed after the stun is removed. Increases Slow by 3 seconds per attribute level. 
+SKILL_20150714_004293	$Increases the duration time of stun from [Restrain] by 1 second per attribute level. 
+SKILL_20150714_004294	$Increases the damage dealt on an enemy with [Rim Blow] by 1% per attribute level.
+SKILL_20150714_004295	$Increases the damage dealt on an enemy with [Umbo Blow] by 1% per attribute level.
+SKILL_20150714_004296	$Increases the damage dealt on an enemy with [Shield Lob] by 1% per attribute level.
+SKILL_20150714_004297	$Increases the damage dealt on an enemy with [Butterfly] by 1% per attribute level.
+SKILL_20150714_004298	$Increases the maximum HP of your character by 5% per attribute level while [Swash Buckling] is active. 
+SKILL_20150714_004299	$Enemies hit by [Umbo Blow] can be affected by stun with a 5% chance per attribute level. 
+SKILL_20150714_004300	$Splash will be added onto [Shield Lob] by 1 per attribute level.
+SKILL_20150714_004301	$Increases Block when equipped with a shield by 5% per attribute level.
+SKILL_20150714_004302	$After equipped with a shield, press the C button to use [Guard].
+SKILL_20150714_004303	$Enemies hit by [Umbo Blow] will fall down, increases the knockback power of by 40 per attribute level. 
+SKILL_20150714_004304	$Increases your defense by 1 per attribute level while using [High Guard]. 
+SKILL_20150714_004305	$High Guard: Rim Blow Speciality
+SKILL_20150714_004306	$Applies your damage of [Rim Blow] to 250% when using [High Guard]. From Lv2, the damage increases by 20% per attribute level. 
+SKILL_20150714_004307	$High Guard: Umbo Blow Speciality
+SKILL_20150714_004308	$Applies your damage of [Umbo Blow] to 250% when using [High Guard]. From Lv2, the damage increases by 20% per attribute level.
+SKILL_20150714_004309	$Guardian: Evasion
+SKILL_20150714_004310	$Increases your character's evasion by 6% per attribute level while [Guardian] is active.
+SKILL_20150714_004311	$Increases the damage dealt on an enemy with [Cartar Stroke] by 1% per attribute level.
+SKILL_20150714_004312	$Increases the damage dealt on an enemy with [Crown] by 1% per attribute level.
+SKILL_20150714_004313	$Increases the damage dealt on an enemy with [Wagon Wheel] by 1% per attribute level.
+SKILL_20150714_004314	$Increases the damage dealt on an enemy with [Moulinet] by 1% per attribute level.
+SKILL_20150714_004315	$Skull Swing: Enhance
+SKILL_20150714_004316	$Increases the damage dealt on an enemy with [Skull Swing] by 1% per attribute level.
+SKILL_20150714_004317	$Increases the knockback power of [Cartar Stroke] by 50 per attribute level.
 SKILL_20150714_004318	The amount that will reduce an enemy's INT and SPR with the skill [Crown] will increase by 2% per Attribute level.
 SKILL_20150714_004319	$When equipped with [Two-Handed Sword], Critical ATK rate will increase by 10% per Attribute level.
 SKILL_20150714_004320	Critical ATK rate of the skill [Moulinet] will increase by 10% per Attribute level.
@@ -4401,27 +4401,27 @@ SKILL_20150714_004400	The reflective damage of [Reflect Shield] will increase pe
 SKILL_20150714_004401	Damage of [Earthquake] will increase by 1% per Attribute level.
 SKILL_20150714_004402	Damage of [Magic Missile] will increase by 1% per Attribute level.
 SKILL_20150714_004403	While [Quick Cast] is being activated, the next Magical damage will increase by 10%.
-SKILL_20150714_004404	Sleep: Duration
-SKILL_20150714_004405	Duration of [Sleep] will increase by 1 sec per Attribute level.
-SKILL_20150714_004406	Damage of [Fire Ball] that will be dealt on an enemy will increase by 1% per Attribute level.
-SKILL_20150714_004407	Damage of [Fire Wall] that will be dealt on an enemy will increase by 1% per Attribute level.
-SKILL_20150714_004408	Damage of [Flare] that will be dealt on an enemy will increase by 1% per Attribute level.
-SKILL_20150714_004409	Damage of [Fire Pillar] that will be dealt on an enemy will increase by 1% per Attribute level.
-SKILL_20150714_004410	Damage of [Hell Breath] that will be dealt on an enemy will increase by 1% per Attribute level.
+SKILL_20150714_004404	$Sleep: Duration
+SKILL_20150714_004405	$Increases the duration time of [Sleep] by 1 second per attribute level.
+SKILL_20150714_004406	$Increases the damage dealt on an enemy with [Fireball] by 1% per attribute level.
+SKILL_20150714_004407	$Increases the damage dealt on an enemy with [Fire Wall] by 1% per attribute level.
+SKILL_20150714_004408	$Increases the damage dealt on an enemy with [Flare] by 1% per attribute level.
+SKILL_20150714_004409	$Increases the damage dealt on an enemy with [Fire Pillar] by 1% per attribute level.
+SKILL_20150714_004410	$Increases the damage dealt on an enemy with [Hell Breath] by 1% per attribute level.
 SKILL_20150714_004411	An enemy that is shot by [Fire Ball] will receive flame damage for 5 secs with 10% probability per Attribute level.
 SKILL_20150714_004412	When an ally steps on [Fire Wall], Fire ATK will increase by 5 per Attribute level for 5 secs.
 SKILL_20150714_004413	An enemy that is shot by [Hell Breath] will be pushed behind with 10% probability per Attribute level.
-SKILL_20150714_004414	When an enemy is near [Enchant Fire] range, the enemy's Fire resistance will decrease by 10% for 5 secs.
-SKILL_20150714_004415	When equipped with [Staff] type weapon, a character's Fire type ATK rate will increase by 3 per Attribute level.
-SKILL_20150714_004416	Flare: Additional Damage
-SKILL_20150714_004417	Damage of [Flare] will increase by 10 per Attribute level to the enemies that are in Cloth defence type.
-SKILL_20150714_004418	Damage of [Ice Bolt] will increase by 1% per Attribute level.
-SKILL_20150714_004419	Damage of [Ice Pike] will increase by 1% per Attribute level.
-SKILL_20150714_004420	Damage of [Ice Blast] will increase by 1% per Attribute level.
-SKILL_20150714_004421	Damage of [Snow Rolling] will increase by 1% per Attribute level.
-SKILL_20150714_004422	The probability that the enemy that was attacked by [Ice Bolt] turn into [Freezing] increases by 10% per Attribute level.
-SKILL_20150714_004423	The enemy pushed by [Gust] will receive damage 50% per Magic ATK.
-SKILL_20150714_004424	When you are equipped with [Rod], a character's Ice ATK rate will increase by 3 per Attribute level.
+SKILL_20150714_004414	$Decreases the enemy's Fire Resistance by 10% for 5 seconds within the range of [Enchant Fire].
+SKILL_20150714_004415	$Increases the character's Fire property attack by 3 per attribute level when equipped with a [Staff].
+SKILL_20150714_004416	$Flare: Additional Damage
+SKILL_20150714_004417	$Increases the damage of [Flare] by 10 per attribute level to Cloth armor type enemies. 
+SKILL_20150714_004418	$Increases the damage dealt on an enemy with [Ice Bolt] by 1% per attribute level.
+SKILL_20150714_004419	$Increases the damage dealt on an enemy with [Ice Spike] by 1% per attribute level.
+SKILL_20150714_004420	$Increases the damage dealt on an enemy with [Ice Blast] by 1% per attribute level.
+SKILL_20150714_004421	$Increases the damage dealt on an enemy with [Snow Rolling] by 1% per attribute level.
+SKILL_20150714_004422	$Increases the chance of inflicting [Freeze] on enemies hit by [Ice Bolt] by 10% per attribute level.
+SKILL_20150714_004423	$Deals 50% Magic Attack of your damage to knockbacked enemies by [Gust]. 
+SKILL_20150714_004424	$Increases the character's Ice property attack by 3 per attribute level when equipped with a [Rod].
 SKILL_20150714_004425	Ice Wall: Cryorite
 SKILL_20150714_004426	When [Ice Wall] disappears, Cryorite will be dropped with the probability 1% per Attribute level.
 SKILL_20150714_004427	Sub Zero Shield: Duration
@@ -4655,13 +4655,13 @@ SKILL_20150714_004654	Damage dealt on an enemy with [Owl Sculpture] will increas
 SKILL_20150714_004655	Carve: The probability of obtaining
 SKILL_20150714_004656	The probability of obtaining ingredients increases 5% per Attribute level for [Carve].
 SKILL_20150714_004657	When equipped with [Mace], you will inflict additional 10% of Physical ATK to plant type monsters per Attribute level.
-SKILL_20150714_004658	Carve Vakarine: Reduce Cooldown time
+SKILL_20150714_004658	$Goddess Vakarine Statue: Cooldown Decrease
 SKILL_20150714_004659	Cooldown time of [Carve Vakarine] will be reduced.
-SKILL_20150714_004660	Raima Goddess: Home Ground
+SKILL_20150714_004660	$Goddess Laima Statue: Home Ground
 SKILL_20150714_004661	Cooldown time of a skill increases for the enemies that are in the range where the effect of [Carve Laima] reaches.
-SKILL_20150714_004662	Damage dealt on an enemy with [Astral Body Explosion] will increase by 1% per Attribute level.
-SKILL_20150714_004663	When in Out of Body status, damage dealt on an enemy will increase by 1% per Attribute level.
-SKILL_20150714_004664	Damage dealt on an enemy with [Possession] will increase by 1% per Attribute level.
+SKILL_20150714_004662	$Increases the damage dealt on an enemy with [Astral Body Explosion] by 1% per attribute level.
+SKILL_20150714_004663	$Increases the damage dealt on an enemy while in the state of Out of Body by 1% per attribute level.
+SKILL_20150714_004664	$Increases the damage dealt on an enemy with [Possession] by 1% per attribute level.
 SKILL_20150714_004665	While [Out of Body] is being activated, the body's evasion will increase by 10% per Attribute level.
 SKILL_20150714_004666	When using [Prakriti], you could recover 5% of Max HP per Attribute level.
 SKILL_20150714_004667	When in Out of Body status, the enemies that got shot by normal attacks will be infliced with [Deprotect] with 5% probability per Attribute level.
@@ -4682,7 +4682,7 @@ SKILL_20150714_004681	$Increases the damage dealt on an enemy with [Energy Blast
 SKILL_20150714_004682	$Increases the damage dealt on an enemy with [Finger Flicking] by 1% per attribute level.
 SKILL_20150714_004683	$Adds 20% of the character's physical attack of the reflected damage from [Iron Skin] per attribute level. 
 SKILL_20150714_004684	$Enemies hit by [Palm Strike] will be affected by [Bleeding] for 8 seconds. The duration of [Bleeding] increases by 1 per attribute level.
-SKILL_20150714_004685	$Enemies hit by [Hand KNife] will be affected by [Break Armor] with a certain chance. The chance increases by 5% per attribute level.
+SKILL_20150714_004685	$Enemies hit by [Hand Knife] will be affected by [Break Armor] with a certain chance. The chance increases by 5% per attribute level.
 SKILL_20150714_004686	Golden Bell Shield : Safe Zone
 SKILL_20150714_004687	The arer of around Caster will be Safe Zone while using [Golden Bell Shield].
 SKILL_20150714_004688	$Indulgentia: Enhance
@@ -5026,7 +5026,7 @@ SKILL_20150803_005025	$Lv3 Steady Aim required
 SKILL_20150803_005026	$Lv3 Concentrate required
 SKILL_20150804_005027	$Switch into the Window stance to attack. Increases Critical Rate and Block, but decreases Evasion.
 SKILL_20150804_005028	$Critical Rate + #{CaptionRatio}#%{nl}Block + #{SkillFactor}#%{nl}Evasion - #{CaptionRatio2}# {nl} Duration #{CaptionTime}# sec
-SKILL_20150804_005029	$Your attack is guaranteed to hit, increasing your Critical Rate and Critical Resistance.
+SKILL_20150804_005029	$Your attacks are guaranteed to hit, increasing your Critical Rate and Critical Resistance.
 SKILL_20150804_005030	$Critical Rate + #{CaptionRatio}#%{nl}Critical Resistance + #{CaptionRatio}#%{nl}Duration #{CaptionTime}# sec
 SKILL_20150804_005031	$Attack 300% + #{SkillAtkAdd}#{nl}Attribute Attack #{CaptionRatio}#%{nl}Casting Time #{CaptionTime}# sec{nl}AoE Attack Ratio #{SkillSR}#
 SKILL_20150804_005032	${#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Launches a contagious poisonous arrow. Poison spreads through the target whenever it gets attacked. 
