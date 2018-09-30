@@ -306,7 +306,7 @@ UI_20150317_000305	{@st42b} Average / %s Points {/}	{@st42b}전체 평균 /  %s�
 UI_20150317_000306	1st / %s Points	1위 / %s점				
 UI_20150317_000307	Rank %s	%s위				
 UI_20150317_000308	%s Points	%s점				
-UI_20150317_000309	Profession	직업				
+UI_20150317_000309	Class	직업				
 UI_20150317_000310	Team	팀				
 UI_20150317_000311	{@st59}Close{/}	{@st59}모험일지를 닫습니다{/}				
 UI_20150317_000312	{@st43}Adventure Journal Ranking{/}	{@st43}모험일지 랭킹{/}				
@@ -367,7 +367,7 @@ UI_20150317_000366	{@st59}Close{/}	{@st59}마켓 창을 닫습니다{/}
 UI_20150317_000367	{@st42b}Sort	{@st42b}보기 순서				
 UI_20150317_000368	{@st41b}Purchase	{@st41b}판매중인 아이템				
 UI_20150317_000369	{@st43}{s22}Retrieve	{@st43}{s22}아이템 수령함				
-UI_20150317_000370	{@st41b}Retrieve All	{@st41b}모두 받기				
+UI_20150317_000370	{@st41b}Claim All	{@st41b}모두 받기				
 UI_20150317_000371	{@st41b}Retrieve	{@st41b}아이템 수령함				
 UI_20150317_000372	{@st43}{s22}Sell	{@st43}{s22}판매 등록				
 UI_20150317_000373	{@st42b}Quantity	{@st42b}개수				
@@ -453,8 +453,8 @@ UI_20150317_000452	{@st41b}Individual EXP	{@st41b}각자얻기
 UI_20150317_000453	{@st41b}Equal EXP	{@st41b}균등분배				
 UI_20150317_000454	{@st41b}By Level	{@st41b}레벨차등				
 UI_20150317_000455	{@st41}Quest Sharing	{@st41}퀘스트 공유				
-UI_20150317_000456	{@st41b}Enabled	{@st41b}사용				
-UI_20150317_000457	{@st41b}Disabled	{@st41b}사용안함				
+UI_20150317_000456	{@st41b}Use	{@st41b}사용				
+UI_20150317_000457	{@st41b}Don't Use	{@st41b}사용안함				
 UI_20150317_000458	{@st41b}Create Party	{@st41b}파티 생성				
 UI_20150317_000459	{@st43}Public Party List {/}	{@st43}공개 파티 목록{/}				
 UI_20150317_000460	{@st59b}Public Party List{nl}{@st59s} - Search for a party you want to join by viewing the open parties in your server {nl} - Use the search option to find a party you want to join{/}	{@st59b}공개 파티 목록{nl}{@st59s} - 서버내 공개된 파티 목록을 확인해서 원하는 파티에 가입{nl} - 검색 옵션 사용으로 원하는 조건의 파티 검색{/}				
@@ -576,7 +576,7 @@ UI_20150317_000575	{@st41} {s20}Price : %s	{@st41}{s20}강화 가격 : %s
 UI_20150317_000576	{@st41b}Enhance{/}	{@st41b}강화 시작{/}				
 UI_20150317_000577	{@st59}Start Item Enhancement{/}	{@st59}아이템 강화를 시작합니다.{/}				
 UI_20150317_000578	{@st59}Close{/}	{@st59}강화를 닫습니다{/}				
-UI_20150317_000579	{@st41b} Would you like to refine the {@sti9}×%s{/} selected items?{/}	{@st41b}선택한 {@sti9}%s개{/} 아이템으로 강화하시겠습니까?{/}				
+UI_20150317_000579	{@st41b}              Enhance with the {@sti9}×%s{/} selected items?{/}	{@st41b}선택한 {@sti9}%s개{/} 아이템으로 강화하시겠습니까?{/}				
 UI_20150317_000580	{@st43}Enhancement	{@st43}강화				
 UI_20150317_000581	{@st44}Enhance Item{/}	{@st44}아이템 강화{/}				
 UI_20150317_000582	{s24}{b}{#000000}Enhancement Complete!	{s24}{b}{#000000}강화 완료!				
@@ -1132,7 +1132,7 @@ UI_20150317_001131	N/A	별별벼려별
 UI_20150317_001132	%s race	%s 종족				
 UI_20150317_001133	N/A	표례스텨(싱뮬형)				
 UI_20150317_001134	Untradable	거래 불가				
-UI_20150317_001135	Unenhanceable	강화 불가				
+UI_20150317_001135	Cannot enhance	강화 불가				
 UI_20150317_001136	N/A	별별별별				
 UI_20150317_001137	Item Name	템이름				
 UI_20150317_001138	N/A	이 템을 착용하면 어쩌고 저쩌고				
@@ -1140,7 +1140,7 @@ UI_20150317_001139	Lv and above	레벨 몇 이상
 UI_20150317_001140	Everyone can equip	누구는 장착 가능				
 UI_20150317_001141	Maximum Sockets : ×%s	최대 소캣 %s개				
 UI_20150317_001142	Item Name	아이템 이륨				
-UI_20150317_001143	Sell Value : %s silver	상점 판매 가격 : %s 실버				
+UI_20150317_001143	Shop Sales Price : %s silver	상점 판매 가격 : %s 실버				
 UI_20150317_001144	How much	얼마				
 UI_20150317_001145	{@St42b}Full Exploration Rate of Siauliai{/}	{@st42b}샤울레이 전체 탐사율{/}				
 UI_20150317_001146	{@St42b}West Forest Area Explored{/}	{@st42b}서쪽숲 탐사율{/}				
@@ -1344,8 +1344,8 @@ UI_20150323_001343	{@st41b}Materials	{@st41b}소비재료
 UI_20150323_001344	{@st43}Repair{/}	{@st43}수 리{/}				
 UI_20150323_001345	{@st41b}Repair{/}	{@st41b}수리{/}				
 UI_20150323_001346	Skill Level	스킬레벨				
-UI_20150323_001347	{@st41}Player Amount to Enter	{@st41}입장가능 인원				
-UI_20150323_001348	{@st43}Item upgrade dungeon	{@st43}아이템 각성 던전				
+UI_20150323_001347	{@st41}Total Players Allowed	{@st41}입장가능 인원				
+UI_20150323_001348	{@st43}Item Dungeon	{@st43}아이템 각성 던전				
 UI_20150323_001349	{@st41}Materials Required	{@st41}필요 재료				
 UI_20150323_001350	{@st59}Materials Required{/}	{@st59}필요재료{/}				
 UI_20150323_001351	Recommended Level : %s	권장 레벨 : %s				
@@ -1774,11 +1774,11 @@ UI_20150807_001773	{@st41b}Price :{/}	{@st41b}거래 정산 :{/}	UI_20150317_000
 UI_20150807_001774	{@st41b}After Repair :{/}	{@st41b}예상 잔액 :{/}	UI_20150317_000633	{@st41b}Balance{/}	{@st41b}예상 잔액 ▶{/}	
 UI_20150918_001775	Camp Duration	캠프 유지 시간				
 UI_20150918_001776	Effect	효과				
-UI_20150918_001777	Camp duration is increased when it is renewed{nl} Requires %s silver.	갱신시 캠프 유지시간이 증가되며{nl} %s실버가 소모됩니다.				
+UI_20150918_001777	Camp duration is increased when it is renewed.{nl}Requires %s silver.	갱신시 캠프 유지시간이 증가되며{nl} %s실버가 소모됩니다.				
 UI_20150918_001778	Personal Storage	개인 창고				
 UI_20150918_001779	{@st41b}Type : {@sti7}%s{/}	{@st41b}타입 : {@sti7}%s{/}				
 UI_20150918_001780	{@st41b}Difficulty : {@sti7}%s{/}	{@st41b}조작난이도 : {@sti7}%s{/}				
-UI_20150918_001781	{#ffff00}{ol}%s{/}{/} players like this character	이 플레이어가 좋아요 {#ffff00}{ol}%s{/}	UI_20150717_001694	{#ffff00}%s{/} players like this character	이 플레이어가 좋아요 {#ffff00}%s{/}	
+UI_20150918_001781	{#ffff00}{ol}%s{/}{/} players like this character	이 플레이어가 좋아요 {#ffff00}{ol}%s{/}				
 UI_20150918_001782	{@st43}Instanced Dungeons	{@st43}인스턴스 던전				
 UI_20150918_001783	{@st41}Check Location	{@st41}위치 확인				
 UI_20150918_001784	{#000000}Dungeon Name{/}	{#000000}이름{/}				
@@ -1839,7 +1839,7 @@ UI_20151224_001838	{@st59}Close	{@st59}주문 판매상점을 닫습니다.	UI_2
 UI_20151224_001839	{@st59}Spell Sell Shop{nl} - You can receive a buff skill from the player by paying in silver.	{@st59}주문 판매상점{nl} - 실버를 지불해 해당 플레이어에게 버프 스킬을 받을 수 있습니다.	UI_20150317_000071	{@st59}Buff Vending Machine{nl} - You can pay silver to receive buffs from another player.	{@st59}버프 자판기{nl} - 실버를 지불해 해당 플레이어에게 버프 기술을 시전받을 수 있습니다.	
 UI_20151224_001840	{@st41b}Build	{@st41b}건설				
 UI_20151224_001841	{@st41b}Materials and Price	{@st41b}소비재료 및 비용				
-UI_20151224_001842	{@st66b}Basement	{@st66b}베이스캠프	UI_20150406_001460	{@st41b}Base Camp	{@st41b}베이스캠프	
+UI_20151224_001842	{@st66b}Base Camp	{@st66b}베이스캠프	UI_20150406_001460	{@st41b}Base Camp	{@st41b}베이스캠프	
 UI_20151224_001843	{@st66b}Records	{@st66b}기록				
 UI_20151224_001844	Legs Quantity	다리개수	UI_20150729_001734	Leg Count	다리갯수	
 UI_20151224_001845	{@st41}Confirm	{@st41}확인				
@@ -1931,13 +1931,13 @@ UI_20151224_001930	{@st66b}Open	{@st66b}열기	UI_20150401_001417	{@st41b}Open	{
 UI_20151224_001931	{@st66b}Offering Box	{@st66b}봉헌함	UI_20150401_001418	{@st41b}Offering Box	{@st41b}봉헌함	
 UI_20151224_001932	{@st66b}Members{/}	{@st66b}구성{/}	UI_20150317_000439	{@st41b}Members{/}	{@st41b}구성{/}	
 UI_20151224_001933	{@st66b}Party Event{/}	{@st66b}파티 이벤트{/}	UI_20150317_000440	{@st41b}Party Event {/}	{@st41b}파티 이벤트{/}	
-UI_20151224_001934	{@st66b}Settings{/}	{@st66b}설정{/}	UI_20150317_000441	{@st41b}Settings{/}	{@st41b}설정{/}	
+UI_20151224_001934	{@st66b}Settings{/}	{@st66b}설정{/}				
 UI_20151224_001935	{@st42b}Save{/}	{@st42b}저장{/}				
 UI_20151224_001936	{@st41}Party Name & Description{/}	{@st41}파티명과 설명{/}				
 UI_20151224_001937	Show Nearby Parties	주변 파티 정보 표시	UI_20150918_001792	{@st42}Show Nearby Parties{/}	{@st42}주변 파티 정보 표시{/}	
-UI_20151224_001938	Public Party	공개 파티 목록에 등록	UI_20150714_001599	{@st42}Public Party{/}	{@st42}공개 파티 목록에 등록{/}	
+UI_20151224_001938	Public Party	공개 파티 목록에 등록				
 UI_20151224_001939	Lv. Difference	레벨 차이				
-UI_20151224_001940	Use 'Recommend Party'	파티원 추천 기능 사용	UI_20150714_001601	{@st42}Use 'Recommend Party'{/}	{@st42}파티원 추천 기능 사용{/}	
+UI_20151224_001940	Use 'Recommend Party'	파티원 추천 기능 사용				
 UI_20151224_001941	{@st66b}Insert Party Invite Tag	{@st66b}파티 초대 태그 삽입				
 UI_20151224_001942	Competitive Mission	경쟁 미션				
 UI_20151224_001943	Unit	단위				
@@ -1946,7 +1946,7 @@ UI_20151224_001945	{@st66b}Public Party List{/}	{@st66b}공개 파티 목록{/}	
 UI_20151224_001946	{@st66b}Recommended Player List{/}	{@st66b}추천 플레이어 목록{/}	UI_20150729_001746	{@st41b}Recommended Player List{/}	{@st41b}추천 플레이어 목록{/}	
 UI_20151224_001947	Life	수명				
 UI_20151224_001948	{@st43}Message Box	{@st43}메시지함	UI_20150714_001616	{@st43}Message Box	{@st43}메세지함	
-UI_20151224_001949	{@st66b}All	{@st66b}전체	UI_20150714_001617	{@st41b}All	{@st41b}전체	
+UI_20151224_001949	{@st66b}All	{@st66b}전체				
 UI_20151224_001950	{@st66b}Unread	{@st66b}안읽은 메시지함	UI_20150714_001618	{@st41b}Unread Messages	{@st41b}안읽은 메세지함	
 UI_20151224_001951	{@st59b}Quests{nl}{@st59s} - When you are on a new quest, it will be added to the quests window.{nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue.{nl} - The arrow on your character's foot leads to the location of your quest{nl} - A 'Return' icon is displayed in the quests window when a quest is completed{nl}  (Teleports you to the Quest NPC using the Backspace key or a mouse-click){nl} - Add or remove quests in the quests window by ticking or unticking the box in front of the quest name{/}	{@st59b}퀘스트{nl}{@st59s} - 퀘스트 획득시 퀘스트 지령창에 등록{nl} - 메인퀘스트는 노란색, 서브퀘스트는 파란색 표시{nl} - 캐릭터 발 밑의 화살표로 퀘스트 위치를 표시{nl} - 퀘스트 완료시 퀘스트 지령창에 돌아가기 아이콘 표시{nl}  (백스페이스나 마우스 클릭으로 완료 NPC로 순간이동){nl} - 퀘스트 지령창에 등록/해제시 퀘스트 이름 앞 체크 선택{/}	UI_20150317_000519	{@st59b}Quests{nl}{@st59s} - When you are on a new quest, it will be added to the quest tracker. {nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue. {nl} - The arrow on the character's foot leads to the location of your quest. {nl} - If you completed a quest, a 'Return' icon is displayed on the quest tracker. {nl}    (Teleports you to the Quest NPC using the Backspace key or a mouse-click) {nl} - Add or remove quests in the quest tracker by ticking or unticking the box in front of the quest name. {/}	{@st59b}퀘스트{nl}{@st59s} - 퀘스트 획득시 퀘스트 알리미에 등록{nl} - 메인퀘스트는 노란색, 서브퀘스트는 파란색 표시{nl} - 캐릭터 발 밑의 화살표로 퀘스트 위치를 표시{nl} - 퀘스트 완료시 퀘스트 알리미에 돌아가기 아이콘 표시{nl}  (백스페이스나 마우스 클릭으로 완료 NPC로 순간이동){nl} - 퀘스트 알리미에 등록/해제시 퀘스트 이름 앞 체크 선택{/}	
 UI_20151224_001952	{@st66b}  In Progress  {/}	{@st66b}  진행  {/}	UI_20150317_000520	{@st41b}In Progress{/}	{@st41b}  진행  {/}	
@@ -1965,8 +1965,8 @@ UI_20151224_001964	{@st66b}Character Settings{/}	{@st66b}캐릭터 설정{/}	UI_
 UI_20151224_001965	{@st59}Collection (F11){/}	{@st59}콜렉션 (F11){/}				
 UI_20151224_001966	{@st66b}Key Settings	{@st66b}키 설정				
 UI_20151224_001967	{@st42}Duration: %s{/}	{@st42}사용기간 : %s{/}				
-UI_20151224_001968	Applies to this %s for %s{nl} and delete %s from inventory	사용한 %s 인벤토리에서 사라지며{nl}%s동안 현재 %s에만 적용됩니다.{/}				
-UI_20151224_001969	Only apply to %s during %s {nl} and delete %s from inventory.{/}	사용한 %s 인벤토리에서{nl}사라지며 현재 %s에만 적용됩니다.{/}				
+UI_20151224_001968	Removes the %s from{nl}your inventory, providing benefits for %s{nl}for this %s.{/}	사용한 %s 인벤토리에서 사라지며{nl}%s동안 현재 %s에만 적용됩니다.{/}				
+UI_20151224_001969	Removes the %s{nl}from your inventory and applies to this %s.{/}	사용한 %s 인벤토리에서{nl}사라지며 현재 %s에만 적용됩니다.{/}				
 UI_20151224_001970	The duration of your Token can be seen in Character Settings.	캐릭터 설정창에서 잔여시간을 확인하실 수 있습니다.{/}				
 UI_20151224_001971	{@st59}Close{/}	{@st59}TP SHOP을 닫습니다{/}				
 UI_20151224_001972	{@st43}{s18}Preview & Purchase	{@st43}{s18}미리보기 및 구매				
@@ -2022,7 +2022,7 @@ UI_20151224_002021	{@st59}Show Quest Dialogue{/}	{@st59}퀘스트 대사 보기{
 UI_20151224_002022	{@st59}Abandon Quest{/}	{@st59}퀘스트 포기{/}				
 UI_20151224_002023	{@st49}Preview{/}	{@st49}미리보기{/}				
 UI_20151224_002024	{@st49}Add{/}	{@st49}담기{/}				
-UI_20151224_002025	obtained %s by %s	%s님이 %s(을)를 드셨습니다	UI_20150714_001683	{@st42} obtained %s by %s	{@st42}%s님이 %s(을)를 드셨습니다	
+UI_20151224_002025	%s ate a %s.	%s님이 %s(을)를 드셨습니다	UI_20150714_001683	{@st42} obtained %s by %s	{@st42}%s님이 %s(을)를 드셨습니다	
 UI_20151224_002026	Amount Left	남은개수				
 UI_20151224_002027	Amount Left : %s{/}	남은개수 : %s{/}	UI_20150317_001268	Amount Left : %s {/}	남은갯수 : %s{/}	
 UI_20151224_002028	{@st41}Buy{/}	{@st41}구매{/}				
@@ -2094,7 +2094,7 @@ UI_20160224_002093	{@st59b}Instanced Dungeons{nl}{@st59s}Content where your grou
 UI_20160224_002094	{@st59}Close{/}	{@st59}인스턴스 던전을 닫습니다{/}				
 UI_20160224_002095	{@st59}Show/Do not show{/}	{@st59}보이기/안보이기{/}				
 UI_20160224_002096	{@st45tw2}Queuing Time{/}	{@st45tw2}대기 시간{/}				
-UI_20160224_002097	Bid	입찰				
+UI_20160224_002097	Bid	입찰	ETC_20150317_002986	Join	참가	
 UI_20160224_002098	Remaining Bidding Time	남은 입찰 시간				
 UI_20160224_002099	Item Dice	아이템 주사위				
 UI_20160224_002100	{@st42}%s Benefits{/}	{@st42}%s 혜택{/}				
@@ -2175,9 +2175,9 @@ UI_20160323_002174	Record / Score	전적 / 점수
 UI_20160323_002175	[Created: %s ago]	[결성: %s 전]				
 UI_20160411_002176	{@st66b}Use Camera Vibration{/}	{@st66b}카메라 진동 사용{/}				
 UI_20160425_002177	{@st42}If both sides are using Tokens,{nl}the trade properties of the weapon{nl}will not be changed.{/}	{@st42}양쪽 모두 토큰 혜택을 적용받는다면{nl}무기 아이템의 거래 속성은{nl}변경되지 않습니다.{/}				
-UI_20160425_002178	{@st66b} Apply Background Effect	{@st66b} 환경 이펙트 적용				
-UI_20160425_002179	{@st66b} Apply Dead Parts	{@st66b} 데드 파츠 적용				
-UI_20160425_002180	{@st66b} Apply Character Silhouettes	{@st66b} 캐릭터 실루엣 적용				
+UI_20160425_002178	{@st66b}Apply Background Effect	{@st66b} 환경 이펙트 적용				
+UI_20160425_002179	{@st66b}Apply Dead Parts	{@st66b} 데드 파츠 적용				
+UI_20160425_002180	{@st66b}Apply Character Silhouettes	{@st66b} 캐릭터 실루엣 적용				
 UI_20160426_002181	{/}Do you want to delete your {b}{s20}Companion{/}{s43}{@st43}%s{/}{/}{b}{s20}?{/}	{/}{b}{s20}컴패니언{/}{s43}{@st43}%s{/}{/}{b}{s20}을 정말 삭제하시겠습니까?{/}				
 UI_20160426_002182	{/}{b}{s20}It cannot be recovered after being deleted.{/}	{/}{b}{s20}삭제가 완료된 이후엔 복구되지 않습니다.{/}				
 UI_20160426_002183	{/}{b}{s20}Companion{/}{s43}{@st43}%s{/}	{/}{b}{s20}컴패니언{/}{s43}{@st43}%s{/}				
@@ -2236,16 +2236,16 @@ UI_20160718_002235	{@st45tw2}Name	{@st45tw2}이름
 UI_20160718_002236	{@st45tw2}Kills	{@st45tw2}킬				
 UI_20160718_002237	{@st45tw2}Deaths	{@st45tw2}데스				
 UI_20160718_002238	{@st59}Lens{/}	{@st59}렌즈{/}				
-UI_20160718_002239	{@st41}Sacrificial Material	{@st41}제물 재료	UI_20151224_001899	{@st41}Riches Material	{@st41}재물 재료	
+UI_20160718_002239	{@st41}Sacrificial Material	{@st41}제물 재료				
 UI_20160718_002240	{@st66b}Show Other Characters' Effects{/}	{@st66b}다른 캐릭터 이펙트 보기{/}	UI_20151022_001829	{@st66b}Show Other Character's Effects	{@st66b}다른 캐릭터 이펙트 보기	
-UI_20160718_002241	{@st66b}Apply Background Effects{/}	{@st66b}배경 이펙트 적용{/}	UI_20160425_002178	{@st66b} Apply Background Effect	{@st66b} 환경 이펙트 적용	
+UI_20160718_002241	{@st66b}Apply Background Effects{/}	{@st66b}배경 이펙트 적용{/}	UI_20160425_002178	{@st66b}Apply Background Effect	{@st66b} 환경 이펙트 적용	
 UI_20160718_002242	{@st59}Shows background effects and graphics.{/}	{@st59}배경 그래픽의 환경 이펙트를 표시합니다.{/}				
-UI_20160718_002243	{@st66b}Apply Dead Parts of Small and Medium sized Monsters	{@st66b}소형 및 중형 몬스터 데드파츠 적용{/}	UI_20160425_002179	{@st66b} Apply Dead Parts	{@st66b} 데드 파츠 적용	
+UI_20160718_002243	{@st66b}Apply Dead Parts of Small and Medium sized Monsters	{@st66b}소형 및 중형 몬스터 데드파츠 적용{/}	UI_20160425_002179	{@st66b}Apply Dead Parts	{@st66b} 데드 파츠 적용	
 UI_20160718_002244	{@st59}Shows dead parts of defeated monsters.{/}	{@st59}몬스터 처치시 파편을 표시합니다.{/}				
-UI_20160718_002245	{@st66b}Show Character Silhouettes{/}	{@st66b}캐릭터 실루엣 적용{/}	UI_20160425_002180	{@st66b} Apply Character Silhouettes	{@st66b} 캐릭터 실루엣 적용	
+UI_20160718_002245	{@st66b}Show Character Silhouettes{/}	{@st66b}캐릭터 실루엣 적용{/}	UI_20160425_002180	{@st66b}Apply Character Silhouettes	{@st66b} 캐릭터 실루엣 적용	
 UI_20160718_002246	{@st59}Characters hidden behind the background are shown in silhouettes.{/}	{@st59}캐릭터가 배경 뒤에 있을 때 실루엣으로 표시합니다.{/}				
-UI_20160718_002247	Do you want to use this %s?{/}	%s 을 사용하시겠습니까?{/}	UI_20151224_001958	Do you want to use this %s?{/}	%s 아이템을 사용하시겠습니까?{/}	
-UI_20160718_002248	Expires in:	사용제한 : %s				
+UI_20160718_002247	Use %s?{/}	%s 을 사용하시겠습니까?{/}	UI_20151224_001958	Do you want to use this %s?{/}	%s 아이템을 사용하시겠습니까?{/}	
+UI_20160718_002248	Expires in :	사용제한 : %s				
 UI_20160718_002249	Day Hour Minute Second	일시분초				
 UI_20160718_002250	{@st42b}Siauliai{/}	{@st42b}샤울레이{/}				
 UI_20160718_002251	{#000000}Score{/}	{#000000}점수{/}				
@@ -2255,20 +2255,20 @@ UI_20160811_002254	{@st66b18}※ The item is consumed when you change name.{/}	{
 UI_20160811_002255	{@st42}Show Login Notifications	{@st42}접속 알림 표시				
 UI_20160811_002256	{@white_16_ol}Guild Member{/}	{@white_16_ol}길드원{/}				
 UI_20160811_002257	{@white_16_ol}Friend{/}	{@white_16_ol}친구{/}				
-UI_20160811_002258	{@st66d}{s18}{#FFFF18}[%s]{/}{nl}{@st66d}{s18}{#FFFFFF}Upon equip, one star will be removed{/}	{@st66d}{s18}{#FFFF18}[ %s ]{/} {@st66d}{s18}{#FFFFFF} 제거 시{nl}카드 레벨이 한단계 하락합니다.{/}				
+UI_20160811_002258	{@st66d}{s18}{#FFFF18}[%s]{/}{nl}{@st66d}{s18}{#FFFFFF}Upon removal, one star will be lost.{/}	{@st66d}{s18}{#FFFF18}[ %s ]{/} {@st66d}{s18}{#FFFFFF} 제거 시{nl}카드 레벨이 한단계 하락합니다.{/}				
 UI_20160811_002259	{@st66b}Removable Effect{/}	{@st66b}제거 되는 효과{/}				
 UI_20160811_002260	None.	없음.				
 UI_20160811_002261	{@st41b}Unequip{/}	{@st41b}해제하기{/}				
 UI_20160811_002262	{img icon_item_tospoint 24 24}{@st41b}Consume 5 TP{nl}Unequip card without the loss of a star{/}	{img icon_item_tospoint 24 24}{@st41b}5TP 소모{nl}별 감소없이 카드 해제하기{/}				
 UI_20160811_002263	{@st41b}Confirm	{@st41b}최종확인				
-UI_20160811_002264	{@st42}My Trades{/}	{@st42}내 거래 목록{/}				
-UI_20160811_002265	{@st42}Trades{/}	{@st42}상대방 거래 목록{/}				
+UI_20160811_002264	{@st42}My Trade Items{/}	{@st42}내 거래 목록{/}				
+UI_20160811_002265	{@st42}Their Trade Items{/}	{@st42}상대방 거래 목록{/}				
 UI_20160811_002266	{@st66b}If both sides are using Tokens,{nl}the trade properties of the equipment are unchanged.{nl}Consumables and material items will become untradable{nl}regardless of the usage of Tokens.{/}	{@st66b}거래 시 유저가 모두 토큰을 사용 중 이라면{nl}장비 아이템의 속성 변경이 없습니다.{nl}소비나 재료 아이템은 토큰여부와 상관없이 거래불가입니다.{/}				
 UI_20160811_002267	Token Match	토큰일치				
 UI_20160811_002268	{@st42}The item in question will become untradable after the trade{/}	{@st42}거래 후 장비 아이템 거래 불가{/}				
 UI_20160811_002269	{@st42}The item in question will remain tradable after the trade{/}	{@st42}거래 후 장비 아이템 거래 가능{/}				
 UI_20160811_002270	{@st41b}Trade	{@st41b}거래				
-UI_20160811_002271	{@st41b}Cancel Trade	{@st41b}아니오				
+UI_20160811_002271	{@st41b}No	{@st41b}아니오				
 UI_20160811_002272	{@st66d}The item properties will not be changed{nl}as both sides are using Tokens.{/}	{@st66d}거래 대상 양측이 모두 토큰 사용으로{nl}아이템 속성이 변경되지 않습니다.{/}				
 UI_20160811_002273	{@st66d}The item properties will be changed{nl}as both sides are not using Tokens.{/}	{@st66d}거래 대상 양측이 모두 토큰 사용하지 않아{nl}아이템 속성이 변경 됩니다.{/}				
 UI_20160811_002274	{@st42}List of items that will become untradable after the trade{/}	{@st42}거래 속성이 변경되는 아이템 목록{/}				
@@ -2285,7 +2285,7 @@ UI_20160811_002284	Level in ascending order{/}	레벨 오름차순{/}
 UI_20160811_002285	Level in descending order{/}	레벨 내림차순{/}				
 UI_20160811_002286	{img %s 12 12}{/} {@st66b}{s18}Monster Card{/}	{img %s 12 12}{/} {@st66b}{s18}몬스터 카드{/}				
 UI_20160811_002287	Transcend Item	아이템 초월				
-UI_20160811_002288	Transcendence	초월				
+UI_20160811_002288	Transcend	초월				
 UI_20160811_002289	{@st59b}Transcend Item{nl}{@st59s}- Another way to enhance the item's performance other than by the anvil{nl}- Items that can transcend : Weapons, armor and accessories{nl}- Transcendence Success Rate = Used Ingredients / Maximum Required Ingredients{nl}- Increases Transcendence Stage by 1 on success (Maximum of 10 Stages){nl}- Decreases Transcendence Stage by 1 on failure (No Potential loss){nl}- Transcended items cannot be traded{/}	{@st59b}아이템 초월{nl}{@st59s}- 모루 강화와는 다른 아이템 성능 강화{nl}- 초월 가능 장비 : 무기, 방어구, 장신구{nl}- 초월 성공 확률 = 넣은 재료 개수 / 최대 필요 재료 개수{nl}- 성공 시, 초월이 1단계 상승(최대 10단계){nl}- 실패 시, 초월이 -1단계 하락(포텐셜은 감소되지 않음){nl}- 초월시킨 장비는 거래 제한으로 변경됨{/}				
 UI_20160811_002290	{@st42}Stage %s{/}	{@st42}%s단계{/}				
 UI_20160811_002291	Extract Blessed Gem	축복석 추출				
@@ -2345,11 +2345,11 @@ UI_20161005_002344	Name{/}	이름{/}
 UI_20161005_002345	Settings{/}	설정{/}				
 UI_20161005_002346	{@st59}Close{/}	{@st59}호문쿨루스 정보 UI를 닫습니다{/}				
 UI_20161005_002347	{@st66d}You cannot revert this when the skill is applied.{nl}Do you wish to proceed?{/}	{@st66d}한번 적용된 스킬은 변경하실 수 없습니다.{nl}진행하시겠습니까?{/}				
-UI_20161005_002348	It is a spell voucher that{nl}quickly defeats monsters in an instanced dungeon.	인스턴스 던전의 몬스터를 {nl}빠르게 처치할 수 있는 주문서 입니다.				
-UI_20161005_002349	Instanced Clear Voucher	인스턴스 던전 소탕권{/}				
+UI_20161005_002348	A spell voucher that quickly{nl}defeats monsters within an instanced dungeon.	인스턴스 던전의 몬스터를 {nl}빠르게 처치할 수 있는 주문서 입니다.				
+UI_20161005_002349	Instance Clear Voucher	인스턴스 던전 소탕권{/}				
 UI_20161005_002350	Warning	주의사항				
-UI_20161005_002351	 The monsters defeated by the pillar of light{nl}shall not be recorded on the Adventure Journal and{nl}items get dropped near the the pillar of light. Please, be aware of possible item loss.{nl}The used voucher disappears instantly and it can only be used in the instanced dungeon of that count.{/}	 빛기둥에 죽은 몬스터는 모험일지에 기록되지{nl}않을 수 있으며, 빛기둥 주변에서 아이템이 떨어지게{nl}되어, 유실 가능성에 유의해 주시기 바랍니다.{nl}사용한 소탕권은 즉시 사라지며, 해당회차 인스턴스{nl}던전에서만 적용됩니다.{/}				
-UI_20161005_002352	Do you wish to use a Instanced Clear Voucher?{/}	인스턴스 던전 소탕권을 사용하시겠습니까?{/}				
+UI_20161005_002351	 The monsters defeated by the pillar of light{nl}will not be recorded in the Adventure Journal, and{nl}items will be dropped near the pillar of light.{nl}Please be aware of possible item loss.{nl}The used voucher will disappear instantly{nl}and it can only be used within instanced dungeons.{/}	 빛기둥에 죽은 몬스터는 모험일지에 기록되지{nl}않을 수 있으며, 빛기둥 주변에서 아이템이 떨어지게{nl}되어, 유실 가능성에 유의해 주시기 바랍니다.{nl}사용한 소탕권은 즉시 사라지며, 해당회차 인스턴스{nl}던전에서만 적용됩니다.{/}				
+UI_20161005_002352	Do you wish to use the Instance Clear Voucher?{/}	인스턴스 던전 소탕권을 사용하시겠습니까?{/}				
 UI_20161005_002353	{@st59b}Blessed Gems Extraction{nl}{@st59s}- Extract a Blessed Gem from a transcended item{nl}- Extraction Requirements : Hammer of Dismantlement{nl}- You'll retrieve some of the Blessed Gems used for Transcendence even though the item will be destroyed.{nl}  : Current Success Rate / 40% of the amount of Blessed Gems will be returned. {nl}- You cannot use this when your item is in Stage 0 of Transcendence.{/}	{@st59b}축복석 추출{nl}{@st59s}- 초월아이템에서 축복석 추출{nl}- 축복석 추출 재료 : 분해의 망치{nl}- 축복석 추출시 해당 아이템은 제거되지만, 사용된 축복석의 일부를 되돌려 받을 수 있습니다. {nl}   : 현재까지 성공 / 실패에 사용된 축복석의 40%를 돌려받습니다. {nl}- 초월 0단계에서는 사용할 수 없습니다.{/}	UI_20160811_002292	{@st59b}Extract Blessed Gem{nl}{@st59s}- Extract Blessed Gem from transcended items{nl}- Extraction Requirements : Hammer of Dismantlement{nl}- You'll retrieve some of the Blessed Gems used for Transcendence even though the item will be destroyed. {nl}- You cannot do this at Transcendence Stage 0.{/}	{@st59b}축복석 추출{nl}{@st59s}- 초월아이템에서 축복석 추출{nl}- 축복석 추출 재료 : 분해의 망치{nl}- 축복석 추출시 해당 아이템은 제거되지만, 사용된 축복석의 일부를 되돌려 받을 수 있습니다. {nl}- 초월 0단계에서는 사용할 수 없습니다.{/}	
 UI_20161005_002354	Mission Failed	미션 실패				
 UI_20161005_002355	All players have been incapacitated.	모든 플레이어가 전투 불능 상태가 되었습니다.				
@@ -2372,8 +2372,8 @@ UI_20161005_002371	Before{/}	현재{/}
 UI_20161005_002372	After{/}	변경 후{/}				
 UI_20161005_002373	{@st66d}Change Gender{/}	{@st66d}성별 변경{/}				
 UI_20161005_002374	Warning{/}	주의 사항{/}				
-UI_20161005_002375	Remove all equipped gear before you proceed{nl}The class costume will be changed along with your gender{/}	모든 장비 해제 한 뒤에 전환 가능{nl}기본 직업별 코스튬은 성별 자동 변경{/}				
-UI_20161005_002376	{@st67}All the premium items that were gender specific will no longer be equippable{/}	{@st67}기존 성별에 맞게 구매한 유료코스튬은{nl}성별 변환 후, 장착 불가{/}				
+UI_20161005_002375	Remove all equipped gear before you proceed{nl}Your class costumes will be changed with your gender{/}	모든 장비 해제 한 뒤에 전환 가능{nl}기본 직업별 코스튬은 성별 자동 변경{/}				
+UI_20161005_002376	{@st67}All the premium items that were gender specific will{nl}no longer be equippable{/}	{@st67}기존 성별에 맞게 구매한 유료코스튬은{nl}성별 변환 후, 장착 불가{/}				
 UI_20161005_002377	Stat	능력치				
 UI_20161005_002378	{@st66d}{s30}The webpage reached its end. {nl} Please, press Close.{/}	{@st66d}{s30}웹 페이지가 끝났습니다. {nl} 닫기를 눌러주세요.{/}				
 UI_20161005_002379	View from the Player's POV	플레이어 시점 보기				
@@ -2396,9 +2396,9 @@ UI_20161005_002395	{@st42b}Open Portal	{@st42b}포탈 열기
 UI_20161005_002396	{@st66b}Portal Cooldown{/}	{@st66b}포탈 재사용 대기시간{/}				
 UI_20161010_002397	{@st66d_y}{s20}All{/}	{@st66d_y}{s20}총{/}				
 UI_20161107_002398	{@st43}Exchange List{/}	{@st43}교환 목록{/}				
-UI_20161107_002399	{@st41b}Total Medal Consumed : {/}	{@st41b}총 소비 메달 : {/}				
+UI_20161107_002399	{@st41b}Medals : {/}	{@st41b}총 소비 메달 : {/}				
 UI_20161107_002400	{@st41b}Total Medal Obtained : {/}	{@st41b}총 획득 메달 : {/}				
-UI_20161107_002401	Do you wish to spend medal for the item?	메달을 위 아이템으로 교환하시겠습니까?				
+UI_20161107_002401	Do you wish to spend medals for the items?	메달을 위 아이템으로 교환하시겠습니까?				
 UI_20161107_002402	Once exchanged, you cannot revert it.	교환 시 원래의 아이템으로 되돌릴 수 없습니다.				
 UI_20161107_002403	Do you wish to exchange the item for medal?	해당 아이템을 메달로 교환하시겠습니까?				
 UI_20161107_002404	Exchanging the purchased back to medal might cause some loss due to the exchange rate.	구매한 아이템을 메달로 재교환 시 교환율의 불이익이 발생할 수 있습니다.				
@@ -2445,8 +2445,8 @@ UI_20161108_002444	{@st43}%s obtained!{/}	{@st43}%s 획득!{/}
 UI_20161108_002445	{@st42b}Open Goddess' Blessed Cube X %s	{@st42b}축복받은 여신의 큐브 X %s 열기				
 UI_20161108_002446	{@st42b}Open Leticia's Secret Cube X %s	{@st42b}레티샤의 비밀 큐브 X %s 열기				
 UI_20161108_002447	{@st41}Open Compensation Cube	{@st41}보상 큐브 열기				
-UI_20161108_002448	{@st59}Close{/}	{@st59}창을 닫습니다.{/}					
-UI_20161108_002449	{@st66b}Open this cube to{nl}acquire something unknown.{/}	{@st66b}사용하면 무언가 알 수 없는 것을{nl}획득할 수 있을 것 같습니다.{/}			
+UI_20161108_002448	{@st59}Close{/}	{@st59}창을 닫습니다.{/}				
+UI_20161108_002449	{@st66b}Open this cube to{nl}obtain an unknown item.{/}	{@st66b}사용하면 무언가 알 수 없는 것을{nl}획득할 수 있을 것 같습니다.{/}				
 UI_20161121_002450	{@st41}Entry Count Reset : 06:00 AM Every Day{/}	{@st41}입장 횟수 초기화 : 매일 6시{/}				
 UI_20161121_002451	Name/Location	이름/위치				
 UI_20161121_002452	Entry Level	입장레벨				
@@ -2455,12 +2455,12 @@ UI_20161121_002454	Enter Dungeon	던전 입장
 UI_20161121_002455	%s/%s	%s/%s회				
 UI_20161121_002456	Main Obtainable Equipment	대표 획득 장비				
 UI_20161121_002457	{@st66b}Auto Match{nl}Re-Enter	{@st66b}자동매칭{nl}재입장				
-UI_20161121_002458	Entering the place previously matched.	이전에 매칭된 곳으로 입장합니다.				
+UI_20161121_002458	Re-entering the location previously matched to.	이전에 매칭된 곳으로 입장합니다.				
 UI_20161121_002459	Auto Match	자동매칭				
 UI_20161121_002460	Main Monster	대표 등장 몬스터				
 UI_20161121_002461	Waiting for the participation from the party members.{nl}A message will be sent out to players in the appropriate level bracket.	파티원의 참여를 기다립니다.{nl}레벨대가 맞는 파티원에게는 메세지가 전송됩니다.				
 UI_20161121_002462	Auto Match{nl}with Party	파티원과 자동매칭				
-UI_20161121_002463	Auto Match w/ Current Members	현재 모인 멤버로 자동매칭				
+UI_20161121_002463	Auto Match with{nl}Current Members	현재 모인 멤버로 자동매칭				
 UI_20161121_002464	{@st41b}Enter Now	{@st41b}바로입장				
 UI_20161121_002465	Total Waiting Queue: %s	총 대기인원: %s명				
 UI_20161121_002466	Awaiting the participation from the party members.	파티원의 참여를 기다리고 있습니다.				
@@ -2469,8 +2469,8 @@ UI_20161121_002468	Entering now...	잠시 후 이동
 UI_20161121_002469	{@st59}Close the Message.{/}	{@st59}메세지를 닫습니다.{/}				
 UI_20161214_002470	{@st43}Identify{/}	{@st43}감정{/}				
 UI_20161214_002471	{@st59}Close{/}	{@st59}감정 UI를 닫습니다{/}				
-UI_20161214_002472	{@st66}List of Identifiable Items	{@st66}감정 필요 아이템 목록				
-UI_20161214_002473	{@st41b}Identification Cost{/}	{@st41b}감정 비용{/}				
+UI_20161214_002472	{@st66}Identifiable Items	{@st66}감정 필요 아이템 목록				
+UI_20161214_002473	{@st41b}Cost{/}	{@st41b}감정 비용{/}				
 UI_20161214_002474	{@st41b}Identify{/}	{@st41b}감정 하기{/}				
 UI_20161214_002475	Name	이름을 지어주세요				
 UI_20161214_002476	{@st43}Companion Shop	{@st43}컴패니언 상점	UI_20150317_000149	{@st43}Companion Shop	{@st43}컴패니언 샵	
@@ -2484,7 +2484,7 @@ UI_20161214_002483	{@st41b}Remaining Fund {/}{img white_right_arrow 15 18}	{@st4
 UI_20161214_002484	Level 1 cards do not consume 5TP.	1레벨 카드는 5TP가 소모되지 않습니다.				
 UI_20161214_002485	{@st66b}Real-time Standings	{@st66b}실시간 랭킹	UI_20160811_002277	{@st66b}Real-time Standings	{@st66b}주간 실시간 랭킹	
 UI_20161214_002486	Last Season Standings	지난 시즌 랭킹	UI_20160811_002279	Previous Week's Standings	지난 주간 랭킹	
-UI_20161214_002487	Increases EXP/Drop Rate{nl}up to 3 times{nl}by consuming the entry counter and Instance Dungeon Multiply Token.	던전 입장 소비 횟수와{nl} 인스턴스 던전 배수 토큰 아이템을{nl}소모한 만큼{nl}경험치/아이템드랍률을{nl} 최대 3배까지 증가시킵니다.				
+UI_20161214_002487	Increases EXP/Drop Rate{nl}up to 3 times by consuming{nl}the entry counter and{nl}Instanced Dungeon Multiply Tokens.	던전 입장 소비 횟수와{nl} 인스턴스 던전 배수 토큰 아이템을{nl}소모한 만큼{nl}경험치/아이템드랍률을{nl} 최대 3배까지 증가시킵니다.				
 UI_20161214_002488	{@st41b}Activate Multiply Mode	{@st41b}배수모드 발동				
 UI_20161214_002489	{@st41b}Cancel Multiply Mode	{@st41b}배수모드 취소				
 UI_20161214_002490	Multiply Mode Number	배수모드 적용 개수				
@@ -2494,7 +2494,7 @@ UI_20161214_002493	{@st66b}Item{/}	{@st66b}아이템{/}
 UI_20161214_002494	{@st59b}Item Transcendence{nl}{@st59s}- Enhances an item's performance in a way different from the anvil enhancement{nl}- Transcendables : Weapon, Armor, Accessory{nl}- Transcendence Chance = Amount of Ingredients / Required Minimum{nl}- If successful, Transcendence level increases by 1(Max. 10){nl}- If failed, Transcendence level along with potential by 1(Transcendence level does not go below 1){nl}- Transcended Item Cannot Be Traded{/}	{@st59b}아이템 초월{nl}{@st59s}- 모루 강화와는 다른 아이템 성능 강화{nl}- 초월 가능 장비 : 무기, 방어구, 장신구{nl}- 초월 성공 확률 = 넣은 재료 개수 / 최대 필요 재료 개수{nl}- 성공 시, 초월이 1단계 상승(최대 10단계){nl}- 실패 시, 초월과 포텐셜이 1단계 하락(초월은 1단계 이하로 떨어지지 않음){nl}- 초월시킨 장비는 거래 제한으로 변경됨{/}	UI_20160811_002289	{@st59b}Transcend Item{nl}{@st59s}- Another way to enhance the item's performance other than by the anvil{nl}- Items that can transcend : Weapons, armor and accessories{nl}- Transcendence Success Rate = Used Ingredients / Maximum Required Ingredients{nl}- Increases Transcendence Stage by 1 on success (Maximum of 10 Stages){nl}- Decreases Transcendence Stage by 1 on failure (No Potential loss){nl}- Transcended items cannot be traded{/}	{@st59b}아이템 초월{nl}{@st59s}- 모루 강화와는 다른 아이템 성능 강화{nl}- 초월 가능 장비 : 무기, 방어구, 장신구{nl}- 초월 성공 확률 = 넣은 재료 개수 / 최대 필요 재료 개수{nl}- 성공 시, 초월이 1단계 상승(최대 10단계){nl}- 실패 시, 초월이 -1단계 하락(포텐셜은 감소되지 않음){nl}- 초월시킨 장비는 거래 제한으로 변경됨{/}	
 UI_20161214_002495	{@st59b}Blessed Gem Extraction{nl}{@st59s}- Extracting Blessed Gems from Transcended Items{nl}- Ingredient for Blessed Gem Extraction : Hammer of Dismantlement{nl}- A portion of Blessed Gems used on the item can be refunded. {nl}   : Depending on the current transcendence level and remaining potential, the refund rate is minimum 20% to maximum 90%. {nl}- Cannot be used on Transcendence Level 0.{/}	{@st59b}축복석 추출{nl}{@st59s}- 초월아이템에서 축복석 추출{nl}- 축복석 추출 재료 : 분해의 망치{nl}- 축복석 추출시 해당 아이템은 제거되지만, 사용된 축복석의 일부를 되돌려 받을 수 있습니다. {nl}   : 현재 초월 단계와 잔여 포텐셜에 따라 최소 20% ~ 최대 90%의 초월석을 돌려받습니다. {nl}- 초월 0단계에서는 사용할 수 없습니다.{/}	UI_20161005_002353	{@st59b}Blessed Gems Extraction{nl}{@st59s}- Extract a Blessed Gem from a transcended item{nl}- Extraction Requirements : Hammer of Dismantlement{nl}- You'll retrieve some of the Blessed Gems used for Transcendence even though the item will be destroyed.{nl}  : Current Success Rate / 40% of the amount of Blessed Gems will be returned. {nl}- You cannot use this when your item is in Stage 0 of Transcendence.{/}	{@st59b}축복석 추출{nl}{@st59s}- 초월아이템에서 축복석 추출{nl}- 축복석 추출 재료 : 분해의 망치{nl}- 축복석 추출시 해당 아이템은 제거되지만, 사용된 축복석의 일부를 되돌려 받을 수 있습니다. {nl}   : 현재까지 성공 / 실패에 사용된 축복석의 40%를 돌려받습니다. {nl}- 초월 0단계에서는 사용할 수 없습니다.{/}	
 UI_20161214_002496	{@st66b}Save{/}	{@st66b}강화 저장{/}				
-UI_20161214_002497	{@st66b}Show Damage On Other Characters	{@st66b}다른 캐릭터 대미지 보기				
+UI_20161214_002497	{@st66b}Show Dmg. Of Other Characters	{@st66b}다른 캐릭터 대미지 보기				
 UI_20161214_002498	{@st59}Please select a server.{/}	{@st59}유라테 - 시즌 서버가 아우슈리네 서버로 통합되었습니다.{nl}자세한 내용은 홈페이지 공지사항을 참고해주세요.{nl}바카리네, 라이마, 제미나, 가비야 서버는 7/14(목) 바이보라 서버로 통합되었습니다.{/}	UI_20160811_002309	{@st59}Please select a server.{/}	{@st59}유라테(시즌 서버) 서버는 10/20까지 운영되는 이벤트 서버입니다.{nl}자세한 내용은 홈페이지 공지사항을 참고해주세요.{nl}바카리네, 라이마, 제미나, 가비야 서버는 바이보라 서버로 통합되었습니다.{/}	
 UI_20161214_002499	{@st59}Record FPS and Activate Replay.{/}	{@st59}리플레이를 실행하며 프레임당 수행시간을 파일로 기록합니다.{/}				
 UI_20161214_002500	Current	현재				
@@ -2506,7 +2506,7 @@ UI_20161214_002505	{@black_18_b}Daily{/}	{@black_18_b}일간{/}
 UI_20161214_002506	{@black_18_b}Weekly (Reset every monday){/}	{@black_18_b}주간(월요일마다 초기화){/}				
 UI_20161214_002507	{@brown_16}Individual Participation{/}	{@brown_16}개인 참여{/}				
 UI_20161214_002508	Guild Authority	길드 권한				
-UI_20161221_002509	Are you sure you want to use the Rank Reset Voucher?	랭크 초기화 아이템을 사용하시겠습니까?{/}				
+UI_20161221_002509	Use the Rank Reset Voucher?	랭크 초기화 아이템을 사용하시겠습니까?{/}				
 UI_20161221_002510	The item will disappear from your{nl}inventory and your Rank choices will be reset.	사용한 아이템은 인벤토리에서 사라지며{nl}전체 랭크가 초기화 됩니다.{/}				
 UI_20161221_002511	{@st66d_y}Conditions and Precautions{/}	{@st66d_y}조건 및 주의 사항{/}				
 UI_20161221_002512	{@st58}No Items Equipped{/}	{@st59}장비 장착 상태{/}				
@@ -2539,14 +2539,14 @@ UI_20170313_002538	{@st68b}{s18}Collection{/}	{@st68b}{s18}콜렉션 상태{/}
 UI_20170313_002539	{@st68b}Complete (%s){/}	{@st68b}완성(%s){/}				
 UI_20170313_002540	{@st68b}New (%s){/}	{@st68b}미확인(%s){/}				
 UI_20170313_002541	{@st68b}Incomplete (%s){/}	{@st68b}미완성(%s){/}				
-UI_20170313_002542	{@st66b}See All Effects{/}	{@st66b}총 효과보기{/}				
-UI_20170313_002543	{@st59}See the total of effects obtained.{/}	{@st59}총 효과를 출력 합니다.{/}				
+UI_20170313_002542	{@st66b}Show All Effects{/}	{@st66b}총 효과보기{/}				
+UI_20170313_002543	{@st59}Shows all effects obtained.{/}	{@st59}총 효과를 출력 합니다.{/}				
 UI_20170313_002544	{@st59}Search the name of a collection or effect.{/}	{@st59}콜렉션 이름 또는 효과로 검색 합니다.{/}				
-UI_20170313_002545	{@st68b}{s18}Complete(%s){/}	{@st68b}{s18}완성(%s){/}				
+UI_20170313_002545	{@st68b}{s18}Complete (%s){/}	{@st68b}{s18}완성(%s){/}				
 UI_20170313_002546	{@st59}Close the image.{/}	{@st59}이미지를 닫습니다{/}				
-UI_20170313_002547	{@st59}Close the item window.{/}	{@st59}아이템 획득 창을 닫습니다.{/}	UI_20160224_002066	{@st59}Close{/}	{@st59}큐브 획득 창을 닫습니다.{/}	
+UI_20170313_002547	{@st59}Close the item window.{/}	{@st59}아이템 획득 창을 닫습니다.{/}				
 UI_20170313_002548	{@st41b}%s {nl}You have obtained an item!	{@st41b}%s {nl}아이템을 획득 하셨습니다!				
-UI_20170313_002549	{@st59}Reexpands your Guild Storage.{/}	{@st59}길드 보관함을 새로 갱신합니다.{/}				
+UI_20170313_002549	{@st59}Renews your Guild Storage.{/}	{@st59}길드 보관함을 새로 갱신합니다.{/}				
 UI_20170313_002550	Can only be used in instanced dungeons and mercenary missions.	인던과 의뢰소 미션에만 사용 가능합니다.				
 UI_20170313_002551	{@st66}Select Equipped Item	{@st66}장착중 선택				
 UI_20170313_002552	{@st59b}Blessed Gem Extraction{nl}{@st59s}- Extracts Blessed Gems from transcended items.{nl}- Materials needed: Hammer of Dismantlement.{nl}- Extracting Blessed Gems will delete the item, but retain part of the gems. {nl}   : You will receive 20% to 90% of the Blessed Gems, depending on the item's transcendence stage and current potential. {nl}- Your item must be transcended to at least stage 2 in order to extract the gems.{/}	{@st59b}축복석 추출{nl}{@st59s}- 초월아이템에서 축복석 추출{nl}- 축복석 추출 재료 : 분해의 망치{nl}- 축복석 추출시 해당 아이템은 제거되지만, 사용된 축복석의 일부를 되돌려 받을 수 있습니다. {nl}   : 현재 초월 단계와 잔여 포텐셜에 따라 최소 20% ~ 최대 90%의 초월석을 돌려받습니다. {nl}- 추출은 초월 2단계이상부터 사용할 수 있습니다.{/}	UI_20161214_002495	{@st59b}Blessed Gem Extraction{nl}{@st59s}- Extracting Blessed Gems from Transcended Items{nl}- Ingredient for Blessed Gem Extraction : Hammer of Dismantlement{nl}- A portion of Blessed Gems used on the item can be refunded. {nl}   : Depending on the current transcendence level and remaining potential, the refund rate is minimum 20% to maximum 90%. {nl}- Cannot be used on Transcendence Level 0.{/}	{@st59b}축복석 추출{nl}{@st59s}- 초월아이템에서 축복석 추출{nl}- 축복석 추출 재료 : 분해의 망치{nl}- 축복석 추출시 해당 아이템은 제거되지만, 사용된 축복석의 일부를 되돌려 받을 수 있습니다. {nl}   : 현재 초월 단계와 잔여 포텐셜에 따라 최소 20% ~ 최대 90%의 초월석을 돌려받습니다. {nl}- 초월 0단계에서는 사용할 수 없습니다.{/}	
@@ -2610,7 +2610,7 @@ UI_20170330_002609	{@st45tw2}Items Sold{/}	{@st45tw2}판매 완료 개수{/}
 UI_20170330_002610	{@st45tw2}Amount{/}	{@st45tw2}금액{/}				
 UI_20170330_002611	{@st45tw2}Sold{/}	{@st45tw2}판매 완료{/}				
 UI_20170330_002612	{@st45tw2}Purchased{/}	{@st45tw2}구매 완료{/}				
-UI_20170330_002613	{@st45tw2}Cancelled{/}	{@st45tw2}판매 취소{/}				
+UI_20170330_002613	{@st45tw2}Canceled{/}	{@st45tw2}판매 취소{/}				
 UI_20170330_002614	{@st45tw2}Others{/}	{@st45tw2}기타{/}				
 UI_20170330_002615	{@st42}Join	{@st42}참석하기				
 UI_20170330_002616	{@st42}Close	{@st42}닫기				
@@ -2629,14 +2629,14 @@ UI_20170330_002628	Expiration Date	기간만료
 UI_20170330_002629	Market silver instantly retrievable	마켓 판매금 즉시 수령				
 UI_20170330_002630	Registration Outside of Max./Min. Price Allowed	마켓 상/하한가 관계없이 물품 등록 가능				
 UI_20170330_002631	Movable via Team Storage	팀 창고 이용 가능				
-UI_20170418_002632	{@st66} If the purchase list doesn't show up properly due to temporary error, please try click the Retrieve all button for receiving item.{/}	{@st66}일시적인 오류로 구매 내역이 표시되지 않을 경우, 전체 수령 버튼을 클릭하여 수령을 시도해 보시기 바랍니다.{/}				
+UI_20170418_002632	{@st66} * If the purchase list doesn't show up properly due to temporary error, please try click the Retrieve all button for receiving item.{/}	{@st66}일시적인 오류로 구매 내역이 표시되지 않을 경우, 전체 수령 버튼을 클릭하여 수령을 시도해 보시기 바랍니다.{/}				
 UI_20170418_002633	{@st68}Reload{/}	{@st68}새로고침				
 UI_20170418_002634	{@st68}Retrieve all{/}	{@st68}전체수령				
 UI_20170418_002635	Required Points	필요 포인트				
-UI_20170419_002636	{@st66b}See More{/}	{@st66b}친구 더 보기{/}				
-UI_20170419_002637	Click to see more friend info.	클릭하면 더 많은 친구 정보를 볼 수 있습니다				
+UI_20170419_002636	{@st66b}Show More{/}	{@st66b}친구 더 보기{/}				
+UI_20170419_002637	Click to show more friend info.	클릭하면 더 많은 친구 정보를 볼 수 있습니다				
 UI_20170419_002638	I agree to being matched in a party of 2 to 4 players.	4인 이하로 매칭될 수 있는 데에 동의합니다.				
-UI_20170420_002639	My points:	내 특성 포인트 :				
+UI_20170420_002639	My Points:	내 특성 포인트 :				
 UI_20170420_002640	{@st66b}Purchase Attribute Points	{@st66b}특성 포인트 구매				
 UI_20170420_002641	{@st66d}Purchase Attribute Points	{@st66d}특성 포인트 구매				
 UI_20170420_002642	Purchase Rate	구매 비율				
@@ -2650,8 +2650,8 @@ UI_20170420_002649	You can store tradable items.{nl}Silver storage is available 
 UI_20170420_002650	{@st41b}This cube cannot be reopened.{/}	{@st41b}한번 더 열기를 할 수 없는 큐브입니다.{/}				
 UI_20170420_002651	{@st41}Open Costume Cube	{@st41}코스튬 큐브  열기				
 UI_20170420_002652	{@st66b}Use to obtain a costume.{/}	{@st66b}코스튬을 얻을 수 있습니다.{/}				
-UI_20170510_002653	* After the reset, you will receive attribute points{nl}equivalent to the level of your attributes prior to the reset.	* 초기화 전 올린 특성의 레벨은{nl}초기화 후 특성 포인트를 돌려드립니다.	UI_20161221_002520	* Attribute levels taken before the reset{nl}can be learned again at no cost after the reset.	* 초기화 전 올린 특성의 레벨은{nl}초기화 후 다시 올릴 경우 실버가 소모되지 않습니다.	
-UI_20170510_002654	* Class EXP Cards equivalent to the last Class Level{nl}you achieved will be sent to your inventory.	* 마지막 달성한 클래스 레벨을 확인해 {nl} 그에 해당하는 클래스 경험치 카드를 인벤토리로 지급합니다.	UI_20161221_002521	* EXP cards equivalent to the last Rank to have achieved{nl}	* 마지막 달성한 	
+UI_20170510_002653	* After the reset, you will receive attribute points{nl}equivalent to the level of your attributes prior to the reset.	* 초기화 전 올린 특성의 레벨은{nl}초기화 후 특성 포인트를 돌려드립니다.				
+UI_20170510_002654	* Class EXP Cards equivalent to the last Class Level{nl}you achieved will be sent to your inventory.	* 마지막 달성한 클래스 레벨을 확인해 {nl} 그에 해당하는 클래스 경험치 카드를 인벤토리로 지급합니다.				
 UI_20170615_002655	{@st42b}Open Leticia's Secret Cube X %s	{@st42b}레티샤 큐브 X %s 열기	UI_20161108_002446	{@st42b}Open Leticia's Secret Cube X %s	{@st42b}레티샤의 비밀 큐브 X %s 열기	
 UI_20170615_002656	{@st43}{s22}Recipe Cube{/}	{@st43}{s22}레시피 큐브{/}				
 UI_20170615_002657	{@st41}Select a recipe and confirm{/}	{@st41}레시피를 선택 후 확인을 눌러주세요{/}				
@@ -2683,7 +2683,7 @@ UI_20170726_002682	Order	별
 UI_20170726_002683	{@st66b}By level - low to high{/}	{@st66b}레벨 오름차순{/}				
 UI_20170726_002684	{@st66b}By level - high to low{/}	{@st66b}레벨 내림차순{/}				
 UI_20170726_002685	{@st66b}Daily entries reset every day at %s.{/}	{@st66b}입장 횟수는 매일 %s시에 초기화 됩니다.{/}				
-UI_20170726_002686	{@st43}{s22}See Location{/}	{@st43}{s22}던전 위치 보기{/}				
+UI_20170726_002686	{@st43}{s22}Show Location{/}	{@st43}{s22}던전 위치 보기{/}				
 UI_20170726_002687	{@st59}Close Location.{/}	{@st59}던전 위치 보기 창을 닫습니다{/}				
 UI_20170726_002688	{@st43}NEWS{/}	{@st43}이벤트 안내{/}				
 UI_20170726_002689	{@st66b}Click a banner to go to the event announcement.{/}	{@st66b}배너를 클릭하면 해당 이벤트 페이지로 이동합니다{/}				
@@ -2697,8 +2697,8 @@ UI_20170726_002696	{s20}Poison	{s20}독의 양
 UI_20170726_002697	{@st42}Poison in Poison Pot{/}	{@st42}포이즌 팟의 독의 양{/}				
 UI_20170726_002698	{@st59}Tackle Box{/}	{@st59}낚시 살림통{/}				
 UI_20170726_002699	{@st59}Dungeon Info (F10){/}	{@st59}던전 정보(F10){/}				
-UI_20170726_002700	{@st66b}See Basic Character Info{/}	{@st66b}캐릭터 기본 정보 보기{/}				
-UI_20170726_002701	{@st66b}Show HP and SP under character{/}	{@st66b}캐릭터 아래에 HP, SP 표시{/}				
+UI_20170726_002700	{@st66b}Show Basic Character Info{/}	{@st66b}캐릭터 기본 정보 보기{/}				
+UI_20170726_002701	{@st66b}Show HP/SP Under Character{/}	{@st66b}캐릭터 아래에 HP, SP 표시{/}				
 UI_20170726_002702	{@st66b}Use multithread (Beta){/}	{@st66b}멀티스레드 사용(Beta){/}				
 UI_20170726_002703	{@st59}Applies multithread update (Beta).{/}	{@st59}멀티스레드 업데이트(Beta)를 적용합니다.{/}				
 UI_20170726_002704	{@st66d}{s18}TP Cubes{/}	{@st66d}{s18}유료 확률형 아이템{/}				
@@ -2726,14 +2726,14 @@ UI_20170912_002725	{@st59}Exploration{/}	{@st59}탐험{/}
 UI_20170912_002726	Team	팀명				
 UI_20170912_002727	Character	캐릭명				
 UI_20170912_002728	{img test_cooltime 24 24}Points reset on the first day of every month.{/}	{img test_cooltime 24 24} 매월 1일마다 점수가 초기화됩니다.{/}				
-UI_20170912_002729	{@st41b}Top Ranking	{@st41b}상위 랭킹				
-UI_20170912_002730	{@st41b}My Nearest Ranking	{@st41b}내 주변 랭킹				
+UI_20170912_002729	{@st41b}Top Ranks	{@st41b}상위 랭킹				
+UI_20170912_002730	{@st41b}My Nearest Ranks	{@st41b}내 주변 랭킹				
 UI_20170912_002731	{@st43b}Total %s Points	{@st43b}총 획득 점수 %s점				
 UI_20170912_002732	{@st66b}More Monsters	{@st66b}몬스터 더 보기				
 UI_20170912_002733	{@st66d_y}%s Points / {/}{@st42}%s Points{/}	{@st66d_y}%s점 / {/}{@st42}%s점{/}				
 UI_20170912_002734	Defeated	처치횟수				
 UI_20170912_002735	{@st41b}Area	{@st41b}서식지역				
-UI_20170912_002736	Descpription	설명문				
+UI_20170912_002736	Description	설명문				
 UI_20170912_002737	Subcategory	하위 카테고리				
 UI_20170912_002738	{@st66b}More Items	{@st66b}아이템 더 보기				
 UI_20170912_002739	Attributes	관련 특성				
@@ -2749,8 +2749,8 @@ UI_20170912_002748	Class Points %s	클래스 점수  %s점
 UI_20170912_002749	Team Level %s	팀 레벨 %s				
 UI_20170912_002750	Exploration	탐험				
 UI_20170912_002751	%s % Explored	총 탐사율 %s %				
-UI_20170912_002752	- Recommended level	- 권장레벨				
-UI_20170912_002753	- Exploration	- 탐색율				
+UI_20170912_002752	Recommended Level	- 권장레벨				
+UI_20170912_002753	Exploration	- 탐색율				
 UI_20170912_002754	Type	종류				
 UI_20170912_002755	Acquisition Points %s	획득 점수 %s 점				
 UI_20170912_002756	Acquisition Points %s	획득점수 %s점				
@@ -2858,7 +2858,7 @@ UI_20170912_002857	ⓘ The first emblem can be registered for free.{nl}ⓘ Chang
 UI_20170912_002858	{@st43b}{s18}Hangout Entry Settings{/}	{@st43b}{s18}아지트 입장 설정{/}				
 UI_20170912_002859	Allow Outsiders	외부인 입장 가능				
 UI_20170912_002860	{@st43b}{s18}Guild News{/}	{@st43b}{s18}길드 공지{/}				
-UI_20170912_002861	{@st66}{s18}Submit{/}	{@st66}{s18}등록{/}				
+UI_20170912_002861	{@st66}{s18}Register{/}	{@st66}{s18}등록{/}				
 UI_20170912_002862	{@st43b}{s18}Guild Notes{/}	{@st43b}{s18}길드 소개글{/}				
 UI_20170912_002863	{@st43b}{s18}Message Board{/}	{@st43b}{s18}한 줄 게시판{/}				
 UI_20170912_002864	A maximum of 25 characters is allowed.	최대 25자 까지 가능합니다.				
@@ -2925,9 +2925,9 @@ UI_20170925_002924	Receiving information.	정보를 요청 중 입니다.
 UI_20171128_002925	Close UI.	출석 UI를 닫습니다.				
 UI_20171128_002926	Check Period	출석 체크 기간				
 UI_20171128_002927	* Daily attendance rewards will be automatically sent once per day to the inventory of the first character to access the game.{nl}* Enchant Scroll (14 Days).{nl}* Rewards can only be received during the attendance check period. After this period, no more rewards will be sent.{nl}	* 출석 보상은 1일 1회, 당일 첫 접속한 캐릭터 인벤토리로 자동 지급됩니다.{nl}* 마법 부여 스크롤(14일)을 제외한 모든 아이템은 팀 창고로 이동할 수 있습니다.{nl}* 출석 체크 기간 동안에만 출석 보상을 받을 수 있으며, 기간 경과 시 더 이상 지급되지 않습니다.{nl}				
-UI_20171128_002928	{@st66b18}※ Changing your Team Name with TP are not refundable.{/}	{@st66b18}※이름 변경에 사용된 TP는 환불되지 않습니다.{/}	UI_20151224_001847	{@st66b18}※ Purchases made with TP are not refundable.{/}	{@st66b18}※구매에 사용된 TP는 환불되지 않습니다.{/}	
+UI_20171128_002928	{@st66b18}※ Name changes with TP are not refundable.{/}	{@st66b18}※이름 변경에 사용된 TP는 환불되지 않습니다.{/}	UI_20151224_001847	{@st66b18}※ Purchases made with TP are not refundable.{/}	{@st66b18}※구매에 사용된 TP는 환불되지 않습니다.{/}	
 UI_20171128_002929	Size%s	크기: %s				
-UI_20171128_002930	{@st42b}Check	{@st42b}확인				
+UI_20171128_002930	{@st42b}Confirm	{@st42b}확인				
 UI_20171128_002931	Update Guild Storage.	현재 길드 보관함을 갱신합니다.				
 UI_20171128_002932	ⓘ Spot rewards are %s every week.{nl}ⓘ The rewards include  	ⓘ 점령 보상은 매주 %s 지급됩니다.{nl}ⓘ 점령 보상금은 전 주 마켓 수수료 중에서 	UI_20170912_002852	ⓘ Spot rewards are %s every week.{nl}ⓘ The rewards include  	ⓘ 점령 보상은 매주 %s됩니다.{nl}ⓘ 점령 보상금은 전 주 마켓 수수료 중에서 	
 UI_20171128_002933	 of your Market fees of the previous week.{nl}ⓘ Spot rewards are delivered as Guild War items.{nl}ⓘ The maximum possible amount rewarded is %s hundred million Silver.{nl}ⓘ Please check our official website for more information.	만큼 지급됩니다.{nl}ⓘ 점령 보상금은 콜로니전 기념 주화로 환산되어 지급됩니다.{nl}ⓘ 점령 보상금으로 지급되는 실버는 상한선이 존재하며, 상한선은 %s억입니다.{nl}ⓘ Beta에 지급되는 점령 보상 및 지급 일정은 위에 명시된 내용과 다를 수 있으며, 홈페이지 내 공지사항을 통해 확인 바랍니다.	UI_20170912_002853	 of your Market fees of the previous week.{nl}ⓘ Spot rewards are delivered as Copper Bars.{nl}ⓘ The maximum possible amount rewarded is %s hundred million Silver.{nl}ⓘ Please check our official website for more information.	만큼 지급됩니다.{nl}ⓘ 점령 보상금은 동괴로 환산되어 지급됩니다.{nl}ⓘ 점령 보상금으로 지급되는 실버는 상한선이 존재하며, 상한선은 %s억입니다.{nl}ⓘ Beta에 지급되는 점령 보상 및 지급 일정은 위에 명시된 내용과 다를 수 있으며, 홈페이지 내 공지사항을 통해 확인 바랍니다.	
@@ -2947,11 +2947,11 @@ UI_20171128_002946	Achievement Rate	인던 달성률
 UI_20171128_002947	{@st59}Special Costume{/}	{@st59}스페셜 코스튬{/}				
 UI_20171128_002948	{@st43}Item Dismantle{/}	{@st43}아이템 분해{/}				
 UI_20171128_002949	{@st43}{#ffcc33}Dismantle Complete{/}	{@st43}{#ffcc33}분해 완료{/}				
-UI_20171128_002950	{@st41b}Dismantle Cost{/}	{@st41b}분해 비용{/}				
+UI_20171128_002950	{@st41b}Cost{/}	{@st41b}분해 비용{/}				
 UI_20171128_002951	{@st41b}Dismantle{/}	{@st41b}분해 하기{/}				
 UI_20171128_002952	Item Re-Identification	아이템 재감정				
 UI_20171128_002953	Re-Identify Item	재감정 하기				
-UI_20171128_002954	{@st43b}{s18}Place the item you want to enhance	{@st43b}{s18}아이템을 올려주세요				
+UI_20171128_002954	{@st43b}{s18}Place an item	{@st43b}{s18}아이템을 올려주세요				
 UI_20171128_002955	{@st43b}{s18}Current Option	{@st43b}{s18}현재 옵션				
 UI_20171128_002956	{@st43b}{s18}Before	{@st43b}{s18}변경 전				
 UI_20171128_002957	{@st43b}{s18}After	{@st43b}{s18}변경 후				
@@ -2963,11 +2963,11 @@ UI_20171128_002962	Selected Portal Quantity %s/%s 	선택한 포탈 개수 %s/%s
 UI_20171128_002963	{@st59}Close Portal Placed Shop UI{/}	{@st59}포탈 상점 등록 UI를 닫습니다{/}				
 UI_20171128_002964	Would you like to undo your last advancement?{/}	마지막 전직을 취소하고 되돌리시겠습니까?{/}				
 UI_20171128_002965	If you undo your current class advancement, the advancement will be undone and your current class EXP will disappear.{/}	현재 클래스의 전직을 취소하고 전직 이전으로 되돌아가며{nl}클래스 경험치는 사라집니다.{/}				
-UI_20171128_002966	* Rank down can only be used once during the same rank.{nl}Cannot be used continuously.	* 랭크 다운은 동일한 랭크에서 한 번만 사용할 수 있으며{nl}연속해서 사용할 수 없습니다.				
-UI_20171128_002967	* Lastly, Rank down cannot be used at a rank lower{nl}than the rank already being used.	* 마지막으로 랭크 다운을 사용한 랭크보다 낮은 랭크에서는{nl}이용이 불가능 합니다.				
-UI_20171128_002968	* Skills and Attributes of removed or adjusted class circles{nl}will be converted to points.	* 초기화로 인해 삭제 또는 서클이 내려가는 클래스는{nl}스킬과 특성을 초기화 후 포인트로 반환됩니다.				
-UI_20171128_002969	* Class-specific costumes received{nl}by Rank advancement will be deleted if the class is completely removed.	* 초기화로 인해 클래스가 완전히 삭제되는 경우에는{nl}전직 시 지급된 직업별 코스튬이 제거됩니다.				
-UI_20171128_002970	* You will return to the barracks after using the Voucher.	* 초기화 후에는 캐릭터 선택창으로 돌아갑니다.				
+UI_20171128_002966	* Rank down can only be used once during the same rank.{nl}It cannot be used repeatedly.	* 랭크 다운은 동일한 랭크에서 한 번만 사용할 수 있으며{nl}연속해서 사용할 수 없습니다.				
+UI_20171128_002967	* In addition, rank down cannot be used at a rank lower{nl}than a rank it has already been used at.	* 마지막으로 랭크 다운을 사용한 랭크보다 낮은 랭크에서는{nl}이용이 불가능 합니다.				
+UI_20171128_002968	* Skills and Attributes of removed or adjusted class circles{nl}will be converted back into points.	* 초기화로 인해 삭제 또는 서클이 내려가는 클래스는{nl}스킬과 특성을 초기화 후 포인트로 반환됩니다.				
+UI_20171128_002969	* Class-specific costumes received through rank advancement{nl}will be deleted if the class is completely removed.	* 초기화로 인해 클래스가 완전히 삭제되는 경우에는{nl}전직 시 지급된 직업별 코스튬이 제거됩니다.				
+UI_20171128_002970	* You will return to the barracks after confirming.	* 초기화 후에는 캐릭터 선택창으로 돌아갑니다.				
 UI_20171128_002971	{@st59}Rank Info{/}	{@st59}랭크 정보{/}				
 UI_20171128_002972	{@st66b}Simplify Buff Effects{/}	{@st66b}버프 이펙트 간소화{/}				
 UI_20171128_002973	{@st66b}Simplify Models{/}	{@st66b}모델 간소화{/}				
@@ -2976,3 +2976,507 @@ UI_20171128_002975	Returning to the previous class.	해당 클래스를 이전�
 UI_20171128_002976	Map name	맵이름				
 UI_20171128_002977	{@st42b}Use	{@st42b}이용하기				
 UI_20171128_002978	Raid Dungeon Entry Item Consume Quantity -2	레이드 던전 입장 아이템 소모 개수 -2				
+UI_20180108_002979	{@st59}Effect Costume{/}	{@st59}이펙트 코스튬{/}				
+UI_20180115_002980	{@st66b}{s16}*Items remain tradable only when there are trades left.{/}{/}	{@st66b}{s16}*잔여 거래 가능 횟수가 있어야만, {nl}거래한 아이템의 속성이 그대로 유지됩니다.{/}{/}	UI_20170330_002599	{@st66b}If both trading players are Token users,{nl}tradable equipment, consumables,{nl}gems and other items will remain tradable.{/}	{@st66b}거래 시 유저가 모두 토큰을 사용 중 이라면{nl}장비, 소모품, 기타, 카드, 젬 아이템의 속성 변경이 없습니다.{/}	
+UI_20180115_002981	{s16}{@st66b}*{/}{@st66d_y}No Trades Left{/}{@st66b} means that {/} {@st66d_y}all items traded{nl}can no longer be traded or transferred via Team Storage{/}{@st66b}.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}거래 가능 횟수 0{/}{@st66b} 상태에서는{/} {@st66d_y}거래한 모든 아이템이{nl} 팀 창고 이동 및 거래가 불가능{/}{@st66b}해집니다.{/}{/}				
+UI_20180115_002982	{s16}{@st66b}*{/}{@st66d_y}Event Tokens offer 0 trade counts.{nl}{/} {@st66b}Make sure to check the count before trading.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}증정용 토큰에는 거래 가능 횟수가 없습니다.{nl}{/} {@st66b}거래 시 주의해 주세요.{/}{/}				
+UI_20180115_002983	{@st66d_y}Items will become untradable{/}	{@st66d_y}거래 후 모든 아이템 팀 창고 이동 및 거래 불가{/}	UI_20160811_002268	{@st42}The item in question will become untradable after the trade{/}	{@st42}거래 후 장비 아이템 거래 불가{/}	
+UI_20180115_002984	{@st42}Items remain tradable and can be team storaged{/}	{@st42}거래 후 모든 아이템 팀 창고 이동 및 거래 가능{/}	UI_20160811_002269	{@st42}The item in question will remain tradable after the trade{/}	{@st42}거래 후 장비 아이템 거래 가능{/}	
+UI_20180115_002985	{@st66d}The following items will become{nl}  {@st66d_y}untradable (Trade NO, Team Storage NO){/}.{/}	{@st66d}아래 아이템이{nl}  {@st66d_y}팀 창고 이동 및 거래 불가{/} 상태가 됩니다.{/}	UI_20170726_002661	{@st66d}If at least one player is not a Token user,{nl}after the trade the item will become untradable.{/}	{@st66d}한 명 이라도 토큰을 사용하지 않으면{nl} 교환 후 아이템이 거래 불가 상태가 됩니다.{/}	
+UI_20180115_002986	{@st42}Untradable Items (Trade NO, Team Storage NO){/}	{@st42}팀 창고 이동 및 거래 속성이 변경되는 아이템 목록{/}	UI_20160811_002274	{@st42}List of items that will become untradable after the trade{/}	{@st42}거래 속성이 변경되는 아이템 목록{/}	
+UI_20180208_002987	{@st59}Close{/}	{@st59}전직 정보 창을 닫습니다{/}	UI_20150317_000086	{@st59}Close{/}	{@st59}클래스 정보 창을 닫습니다{/}	
+UI_20180208_002988	Acquired Item	획득 아이템				
+UI_20180208_002989	Server	서버				
+UI_20180208_002990	Character Name	캐릭터명				
+UI_20180208_002991	Reason	사유				
+UI_20180208_002992	{@st43}{s24}Report Problematic Player	{@st43}{s24}불량유저 신고				
+UI_20180208_002993	{@st41b}Report	{@st41b}신고				
+UI_20180208_002994	Report.	신고합니다.				
+UI_20180208_002995	Cancel.	취소합니다.				
+UI_20180208_002996	{@st59b}Item Transcendence{nl}{@st59s}- Enhances an item's performance in a way different from the anvil enhancement{nl}- Transcendables : Weapon, Armor, Accessory{nl}- Transcendence Chance = Amount of Materials / Required Maximum{nl}- If successful, Transcendence level increases by 1 (max. 10){nl}- If failed, Transcendence level along with potential decrease by 1 (Transcendence level does not go below 1){nl}- Transcended items cannot be traded{/}	{@st59b}아이템 초월{nl}{@st59s}- 모루 강화와는 다른 아이템 성능 강화{nl}- 초월 가능 장비 : 무기, 방어구, 장신구{nl}- 초월 성공 확률 = 넣은 재료 개수 / 최대 필요 재료 개수{nl}- 성공 시, 초월이 1단계 상승(최대 10단계){nl}- 실패 시, 초월과 포텐셜이 1단계 하락(초월은 1단계 이하로 떨어지지 않음){nl}- 초월시킨 장비는 거래 속성이 팀 창고 이동 및 거래 불가로 변경됨{/}	UI_20161214_002494	{@st59b}Item Transcendence{nl}{@st59s}- Enhances an item's performance in a way different from the anvil enhancement{nl}- Transcendables : Weapon, Armor, Accessory{nl}- Transcendence Chance = Amount of Ingredients / Required Minimum{nl}- If successful, Transcendence level increases by 1(Max. 10){nl}- If failed, Transcendence level along with potential by 1(Transcendence level does not go below 1){nl}- Transcended Item Cannot Be Traded{/}	{@st59b}아이템 초월{nl}{@st59s}- 모루 강화와는 다른 아이템 성능 강화{nl}- 초월 가능 장비 : 무기, 방어구, 장신구{nl}- 초월 성공 확률 = 넣은 재료 개수 / 최대 필요 재료 개수{nl}- 성공 시, 초월이 1단계 상승(최대 10단계){nl}- 실패 시, 초월과 포텐셜이 1단계 하락(초월은 1단계 이하로 떨어지지 않음){nl}- 초월시킨 장비는 거래 제한으로 변경됨{/}	
+UI_20180208_002997	Transcendence Success Chance 100%	초월 성공률 100%				
+UI_20180208_002998	* Transcendence could fail if success rate is not 100%.{nl}Potential is reduced upon failure.	* 초월 성공률이 100%가 아닐 경우 실패 할 수도 있습니다. {nl}실패시 포텐셜이 소모됩니다.				
+UI_20180208_002999	Extract Blessed Shard	축복받은 조각 추출				
+UI_20180208_003000	{@st59b}Extract Blessed Shard{nl}{@st59s}- Extract Blessed Shard from Transcended item{nl}- Material for Extracting: Hammer of Dismantlement.{nl}- Extracting Blessed Shards will delete the item, but retain part of the Blessed Stone as Blessed Shards.{nl} :90% of Blessed Stone used to transcend can be returned.{nl}- Your item must be transcended to at least stage 2 in order to extract the shards.{/}	{@st59b}축복받은 조각 추출{nl}{@st59s}- 초월아이템에서 축복받은 조각 추출{nl}- 축복받은 조각 추출 재료 : 분해의 망치{nl}- 축복받은 조각 추출시 해당 아이템은 제거되지만, 사용된 축복석의 일부를 축복받은 조각으로 되돌려 받을 수 있습니다. {nl}   : 초월에 사용된 축복석의 90%를 환급 받을 수 있습니다.{nl}- 추출은 초월 2단계이상부터 사용할 수 있습니다.{/}	UI_20170313_002552	{@st59b}Blessed Gem Extraction{nl}{@st59s}- Extracts Blessed Gems from transcended items.{nl}- Materials needed: Hammer of Dismantlement.{nl}- Extracting Blessed Gems will delete the item, but retain part of the gems. {nl}   : You will receive 20% to 90% of the Blessed Gems, depending on the item's transcendence stage and current potential. {nl}- Your item must be transcended to at least stage 2 in order to extract the gems.{/}	{@st59b}축복석 추출{nl}{@st59s}- 초월아이템에서 축복석 추출{nl}- 축복석 추출 재료 : 분해의 망치{nl}- 축복석 추출시 해당 아이템은 제거되지만, 사용된 축복석의 일부를 되돌려 받을 수 있습니다. {nl}   : 현재 초월 단계와 잔여 포텐셜에 따라 최소 20% ~ 최대 90%의 초월석을 돌려받습니다. {nl}- 추출은 초월 2단계이상부터 사용할 수 있습니다.{/}	
+UI_20180208_003001	Blessed Shard Extraction Result	축복받은 조각 추출 결과	UI_20160811_002293	Extraction Results	축복석 추출 결과	
+UI_20180208_003002	{@st43b}{s18}Applied Effect{/}	{@st43b}{s18}적용효과{/}				
+UI_20180208_003003	{@st43b}{s20}Applied Effect{/}	{@st43b}{s20}적용효과{/}				
+UI_20180208_003004	{@st59}Show Monster Card Apply Option{/}	{@st59}몬스터 카드 적용 옵션을 봅니다{/}				
+UI_20180208_003005	*You cannot rank down if you have{nl}unused Rank Cards or Class EXP Cards.	* 초기화 후 사용하지 않은 랭크 카드, 클래스 경험치 복구 카드가{nl} 있을 경우 랭크 다운을 할 수 없습니다.				
+UI_20180208_003006	*Common attributes such as Weapon Swap will also be reset,{nl}and attribute points will be returned.	* 초기화 시 무기 스왑과 같은 공용 특성도 초기화 되며,{nl}이때 투자한 특성 포인트는 반환됩니다.				
+UI_20180208_003007	{@st43}{s22}Add Socket{/}	{@st43}{s22}소켓 추가{/}				
+UI_20180208_003008	{@st59}Cancel{/}	{@st59}사용을 취소합니다{/}				
+UI_20180208_003009	{@st41}{s20}Current Sockets:{@st43} %s / {@st43}%s	{@st41}{s20}현재 소켓 현황 :{@st43} %s / {@st43}%s				
+UI_20180208_003010	{@st41}{s20}New Socket Price: %s	{@st41}{s20}소켓 추가 가격 : %s				
+UI_20180208_003011	{@st41b}Add Socket{/}	{@st41b}소켓 추가{/}				
+UI_20180208_003012	{@st59}Add Socket.{/}	{@st59}소켓을 추가 합니다.{/}				
+UI_20180208_003013	{@st59}Advancement Info{/}	{@st59}전직 정보{/}				
+UI_20180208_003014	{@st66b}Show Drop Item Name{/}	{@st66b}드롭 아이템 이름 표시{/}				
+UI_20180320_003015	{img icon_item_silver 24 24}{@st41b}Consume %s Silver{nl}Unequip card without the level decrease{/}	{img icon_item_silver 24 24}{@st41b}%s실버 소모{nl}레벨 감소없이 카드 해제하기{/}	UI_20170925_002922	{img icon_item_tospoint 24 24}{@st41b}Consume 0 TP{nl}Unequip card without the loss of a star{/}	{img icon_item_tospoint 24 24}{@st41b}0TP 소모{nl}별 감소없이 카드 해제하기{/}	
+UI_20180320_003016	Level 1 cards do not consume Silver.	1레벨 카드는 실버가 소모되지 않습니다.	UI_20161214_002484	Level 1 cards do not consume 5TP.	1레벨 카드는 5TP가 소모되지 않습니다.	
+UI_20180320_003017	Recruiting guild quest participants.	길드 퀘스트 참가자를 모집하고 있습니다.	UI_20160224_002073	The guild master is searching for Guild Event participants.	길드 마스터가 길드 이벤트 참가자를 모집하고 있습니다.	
+UI_20180320_003018	{@st43}Enhance Legend Card{/}	{@st43}레전드 카드 강화{/}				
+UI_20180320_003019	{@st43b}{#ffba00}{s20}Success Rate [%s%]{/}	{@st43b}{#ffba00}{s20}성공확률 [%s%]{/}				
+UI_20180320_003020	{@st43b}{s17}{#ffba00}Increases Card Level [{img star_mark 20 20}] by +1 on success.{/}	{@st43b}{s17}{#ffba00}  성공 시 카드의 레벨[★]이 +1 증가합니다.{/}				
+UI_20180320_003021	{@st43b}{s20}Failure Rate [%s%]{/}	{@st43b}{s20}실패확률 [%s%]{/}				
+UI_20180320_003022	{@st43b}{s17}Fodder cards will be deleted and the Legend Card level will not change.{/}	{@st43b}{s17}  실패 시 제물 카드가 소멸되며, 레전드 카드의 레벨은 유지됩니다.{/}				
+UI_20180320_003023	{@st43b}{#898989}{s20}Destruction Rate [%s%]{/}	{@st43b}{#898989}{s20}파괴확률 [%s%]{/}				
+UI_20180320_003024	{@st43b}{#898989}{s17}The Legend Card and fodder cards will be deleted upon destruction.{/}	{@st43b}{#898989}{s17}  파괴 시 레전드 카드와 제물 카드가 소멸됩니다.{/}				
+UI_20180320_003025	{@st59}Close{/}	{@st59}레전드 카드 강화 UI를 닫습니다{/}				
+UI_20180320_003026	Time remaining	남은 참가 시간	UI_20160224_002098	Remaining Bidding Time	남은 입찰 시간	
+UI_20180320_003027	Acquire random	랜덤 획득	UI_20160224_002099	Item Dice	아이템 주사위	
+UI_20180320_003028	{@st59}Personal Shops{/}	{@st59}개인 상점{/}				
+UI_20180320_003029	{@st59}Fishing{/}	{@st59}낚시{/}				
+UI_20180320_003030	Search monster name and press Enter	몬스터 이름 검색 후 엔터				
+UI_20180320_003031	{@st66b}Show More	{@st66b}더보기				
+UI_20180320_003032	Qtt to add (count)	추가할 양(count)				
+UI_20180320_003033	Search item name and press Enter	아이템 이름 검색 후 엔터				
+UI_20180320_003034	Search item to craft and press Enter	제작할 아이템 이름 검색 후 엔터				
+UI_20180320_003035	Search instanced dungeon name and press Enter	인던 이름 검색 후 엔터				
+UI_20180320_003036	{@st42}Automatic	{@st42}자동				
+UI_20180320_003037	{@st42}Add	{@st42}추가				
+UI_20180320_003038	{@st42}Send	{@st42}전송				
+UI_20180320_003039	{@st42}Reset	{@st42}초기화				
+UI_20180320_003040	Failed to start the game.	게임 시작에 실패했습니다.				
+UI_20180320_003041	(Error Code: %s)	(에러 코드: %s)				
+UI_20180320_003042	{img notice_br_reason 16 16}{@st99w16}Reason	{img notice_br_reason 16 16}{@st99w16} 발생 원인				
+UI_20180320_003043	This could be the reason.{nl}This could also be the reason.	원인은 이것 때문일 수 있습니다.{nl}원인은 이것 때문일 수도 있습니다.				
+UI_20180320_003044	{img notice_br_solution 16 16}{@st99w16}Solution	{img notice_br_solution 16 16}{@st99w16} 해결 방법				
+UI_20180320_003045	Try this.{nl}Try that.	이렇게 해보십시오.{nl}저렇게 해보십시오.				
+UI_20180320_003046	{@st68}Check	{@st68}확인				
+UI_20180402_003047	{img notice_br_link 16 16}{@st99w16}Related Link	{img notice_br_link 16 16}{@st99w16} 관련 링크				
+UI_20180409_003048	{@st66b}Draw Shadow	{@st66b}그림자 그리기				
+UI_20180413_003049	{@st43b}{s18}Benefits (Coming Soon){/}	{@st43b}{s18}점령 혜택(준비중){/}	UI_20170912_002847	{@st43b}{s18}Spot Benefits{/}	{@st43b}{s18}점령 혜택{/}	
+UI_20180413_003050	ⓘ Please see our official website at treeofsavior.com for more information on Territory Wars rewards and benefits during the beta testing period.	ⓘ Beta로 진행되는 길드 콜로니전의 점령 혜택은 홈페이지 내 공지사항을 통해 확인 바랍니다.				
+UI_20180418_003051	{@st47}{s18}Show Processed Equipment	{@st47}{s18}가공된 장비 보기				
+UI_20180418_003052	{@st42}Equippable Titles [%s]{/}	{@st42}장착 가능한 칭호 [%s]{/}				
+UI_20180418_003053	{@st42}{#00fec5}Current Title Buff Stage	{@st42}{#00fec5}현재 칭호 버프 단계				
+UI_20180418_003054	{@st42}Required Titles for Next Stage	{@st42}다음단계까지 필요한 칭호{/}				
+UI_20180418_003055	{@st42b}Stage %s{/}	{@st42b}%s단계{/}				
+UI_20180418_003056	{@st66b}View Next Stage Effects{/}	{@st66b}다음단계 효과 보기{/}				
+UI_20180418_003057	{@st59}Close transcendence scroll window.{/}	{@st59}초월 스크롤 창을 닫습니다.{/}				
+UI_20180418_003058	{@st41}{s20}Transcendence Scroll{/}	{@st41}{s20}초월 스크롤{/}				
+UI_20180418_003059	Transcendence Value: %s	초월 수치: %s				
+UI_20180418_003060	Success Rate: %s%	성공 확률: %s%				
+UI_20180418_003061	{@st66}Cannot use with transcended equipment items.{nl}Using it will change the item to Transcendence Stage %s.{/}	{@st66}이미 초월된 장비에는 사용할 수 없으며{nl}사용시 %s초월로 변경됩니다.{/}				
+UI_20180418_003062	{@st41b}{s20}Transcendence	{@st41b}{s20}초월				
+UI_20180418_003063	{@st41b}{s20}Confirm	{@st41b}{s20}확인				
+UI_20180426_003064	{@st59}Back{/}	{@st59}등 코스튬{/}				
+UI_20180517_003065	Default	디폴트				
+UI_20180517_003066	{@st66b}Community{/}	{@st66b}커뮤니티{/}				
+UI_20180517_003067	{@st66b}Guild Info{/}	{@st66b}길드 정보{/}				
+UI_20180517_003068	{@st66b}Storage{/}	{@st66b}보관함{/}				
+UI_20180517_003069	{@st66b}Wars{/}	{@st66b}전투{/}				
+UI_20180517_003070	{@st41b}Write	{@st41b}글 작성				
+UI_20180517_003071	{@st66b}Master{/}	{@st66b}마스터{/}				
+UI_20180517_003072	{@st66b}Guild Master name here{/}	{@st66b}길드 마스터 이름 여기{/}				
+UI_20180517_003073	{@st66b}Members{/}	{@st66b}인원{/}				
+UI_20180517_003074	{@st66b}Founded{/}	{@st66b}개설일{/}				
+UI_20180517_003075	{@st66b}Funds{/}	{@st66b}자금{/}				
+UI_20180517_003076	{@st66b}Guild funds here{/}	{@st66b}길드 자금 여기{/}				
+UI_20180517_003077	Position {img %s 13 13}	직급{img %s 13 13}				
+UI_20180517_003078	%s online, %s offline	온라인 %s명    오프라인 %s명				
+UI_20180517_003079	{@st43b}{s18}Wars{/}	{@st43b}{s18}길드 전쟁 {/}				
+UI_20180517_003080	Neutral Cancel Alert	중립 해제 알림				
+UI_20180517_003081	{@st66b}Guild Promotion{/}	{@st66b}홍보{/}				
+UI_20180517_003082	{@st66b}Roles and Authorities{/}	{@st66b}직급과 권한{/}				
+UI_20180517_003083	{@st66b}Applications{/}	{@st66b}가입 신청{/}				
+UI_20180517_003084	{@st43b}{s18}Role Settings	{@st43b}{s18}직급 설정				
+UI_20180517_003085	Roles	직급				
+UI_20180517_003086	Authorities	권한				
+UI_20180517_003087	{@st42}Guild Management{/}	{@st42}길드 운영{/}				
+UI_20180517_003088	{@st42}Guild Funds{/}	{@st42}길드 자본{/}				
+UI_20180517_003089	{@st42}Guild Community{/}	{@st42}길드 커뮤니티{/}				
+UI_20180517_003090	{@st42}Contents{/}	{@st42}컨텐츠{/}				
+UI_20180517_003091	{@st41b}{s16}Add	{@st41b}{s16}추가				
+UI_20180517_003092	{@st41b}{s16}Delete	{@st41b}{s16}삭제				
+UI_20180517_003093	{@st41b}{s16}Save	{@st41b}{s16}저장				
+UI_20180517_003094	{@st43b}{s18}Give Role	{@st43b}{s18}직급 부여				
+UI_20180517_003095	Char. Level	캐릭터 레벨				
+UI_20180517_003096	Total Characters	캐릭터 수				
+UI_20180517_003097	{@st41b}{s16}Accept	{@st41b}{s16}수락				
+UI_20180517_003098	{@st41b}{s16}Decline	{@st41b}{s16}거절				
+UI_20180517_003099	{@st43b}{s18}Emblem{/}	{@st43b}{s18}엠블럼{/}				
+UI_20180517_003100	Important	유의사항				
+UI_20180517_003101	{@st41b}{s16}Register	{@st41b}{s16}등록				
+UI_20180517_003102	{@st43b}{s18}Banner{/}	{@st43b}{s18}배너{/}				
+UI_20180517_003103	ⓘ Your image must be sized %s and in PNG (24 bit or 32 bit) format.{nl}ⓘ The file name must be composed only of alphanumeric characters.{nl}ⓘ The use of problematic images can result in restrictions.	ⓘ 길드 배너는 %s 크기의 PNG(24bit/32bit)파일만 등록 가능합니다.{nl}ⓘ 파일 이름이 영문과 숫자로 이루어진 파일만 등록 가능합니다.{nl}ⓘ 문제 있는 이미지 사용 시 제재가 있을 수 있습니다.				
+UI_20180517_003104	Allow Outsiders	아지트 외부인 입장 가능				
+UI_20180517_003105	Promote Guild	길드 홍보 공개				
+UI_20180517_003106	{@st43b}{s18}Cover Page{/}	{@st43b}{s18}홍보 이미지{/}				
+UI_20180517_003107	ⓘ Your image must be sized %s and in PNG (24 bit or 32 bit) format.{nl}ⓘ The file name must be composed only of alphanumeric characters.{nl}ⓘ The use of problematic images can result in restrictions.	ⓘ 길드 홍보 페이지는 %s 크기의 PNG(24bit/32bit)파일만 등록 가능합니다.{nl}ⓘ 파일 이름이 영문과 숫자로 이루어진 파일만 등록 가능합니다.{nl}ⓘ 문제 있는 이미지 사용 시 제재가 있을 수 있습니다.				
+UI_20180517_003108	1024 in width and 768-3840 in length	가로 1024, 세로 768~3840				
+UI_20180517_003109	{@st41b}{s16}Preview	{@st41b}{s16}미리보기				
+UI_20180517_003110	{@st43b}{s18}Cover Page Text{/}	{@st43b}{s18}홍보글{/}				
+UI_20180517_003111	{@st66b}Register	{@st66b}등록				
+UI_20180517_003112	{@st64}Guild	{@st64}길드				
+UI_20180517_003113	{@st43}{s22}More Info{/}	{@st43}{s22}길드 상세정보{/}				
+UI_20180517_003114	{@st43}Guild Info	{@st43}길드 정보				
+UI_20180517_003115	 {@st66}Info	 {@st66}정보				
+UI_20180517_003116	 {@st66}Cover Page	 {@st66}홍보 페이지				
+UI_20180517_003117	{@st43}Intro	{@st43}소개글				
+UI_20180517_003118	{s18}Name{/}	{s18}이름{/}				
+UI_20180517_003119	{s18}Guild	{s18}길드				
+UI_20180517_003120	{@s18}Master{/}	{@s18}마스터{/}				
+UI_20180517_003121	{@s18}Founded{/}	{@s18}개설일{/}				
+UI_20180517_003122	{@s18}Guild Level{/}	{@s18}길드 레벨{/}				
+UI_20180517_003123	{@s18}Status{/}	{@s18}모집 상태{/}				
+UI_20180517_003124	{@s18}Recruiting{/}	{@s18}모집중{/}				
+UI_20180517_003125	{@st41}Apply to Join	{@st41}가입 신청				
+UI_20180517_003126	{@s18}Members{/}	{@s18}인원{/}				
+UI_20180517_003127	{@s18}Average Level{/}	{@s18}평균 레벨{/}				
+UI_20180517_003128	{@s18}Cover Page Text{/}	{@s18}홍보글{/}				
+UI_20180517_003129	{@s18}Your guild intro text goes here.{/}	{@s18}이곳에 길드 소개글이 들어갑니다{/}				
+UI_20180517_003130	{@s18}Members{/}	{@s18}길드원{/}				
+UI_20180517_003131	{@st43}Write{/}	{@st43}글 작성{/}				
+UI_20180517_003132	{@st41b}Write	{@st41b}작성				
+UI_20180517_003133	{@st43}Write	{@st43}글 작성				
+UI_20180517_003134	{@st43}Applicants	{@st43}길드 가입 신청자				
+UI_20180517_003135	Team Level: %s {nl}Characters: %s {nl}Adventure Journal Rank: %s {nl}Level of Applying Character: %s {nl} {nl}Message	팀 레벨 : %s {nl}캐릭터 수 : %s {nl}모험일지 랭킹 : %s {nl}신청한 캐릭터 레벨 : %s {nl} {nl}전하는 말				
+UI_20180517_003136	{@st43}{s22}New UI{/}	{@st43}{s22}새 UI{/}				
+UI_20180517_003137	{@st42}Guild Name{/}	{@st42}길드 이름{/}				
+UI_20180517_003138	{@st42}Message{/}	{@st42}전하는 말{/}				
+UI_20180517_003139	Message	전하는 말				
+UI_20180517_003140	You can apply for a guild even without entering a message.{nl}ⓘ The following information is automatically displayed to the guild when you send the application:{nl} - Team name{nl} - Team level{nl} - No. of characters{nl} - Level of the applying character{nl} - Adventure Journal ranking{nl}	이 없어도 가입 신청이 가능합니다{nl}ⓘ 길드 가입 신청 시 아래 정보가 자동으로 길드에 제공 됩니다{nl} - 팀 이름{nl} - 팀 레벨{nl} - 캐릭터 수{nl} - 신청한 캐릭터 레벨{nl} - 모험일지 랭킹{nl}				
+UI_20180517_003141	{@st41}Send Application	{@st41}길드 가입 보내기				
+UI_20180517_003142	{@st43}{s22}Guild Promotion{/}	{@st43}{s22}길드 홍보{/}				
+UI_20180517_003143	{@st43}Guild Promotion Board	{@st43}길드 홍보 게시판				
+UI_20180517_003144	{@st59}Guild Level{/}	{@st59}길드 레벨{/}				
+UI_20180517_003145	{@st59}Activity{/}	{@st59}활성화 점수{/}				
+UI_20180517_003146	{@st59}Average Team Level{/}	{@st59}평균 팀레벨{/}				
+UI_20180517_003147	{@st59}Applicants{/}	{@st59}가입 신청자수{/}				
+UI_20180517_003148	{@st59}Territory Wars{/}	{@st59}콜로니전{/}				
+UI_20180517_003149	{@st43}Application Log	{@st43}길드 가입 신청 내역				
+UI_20180517_003150	Date	요청일				
+UI_20180517_003151	Status	읽음 상태				
+UI_20180517_003152	{@st66b}Daily entries reset every Monday at %s (server time).{/}	{@st66b}입장 횟수는 매주 월요일 %s시에 초기화 됩니다.{/}				
+UI_20180517_003153	Equip Ichor	아이커 장착				
+UI_20180517_003154	Equip	장착				
+UI_20180517_003155	{@st43b}{s18}Current Stats	{@st43b}{s18}적용 옵션				
+UI_20180517_003156	{@st43b}{s18}Equip Stats	{@st43b}{s18}장착 옵션				
+UI_20180517_003157	Extraction Kit	추출 키트				
+UI_20180517_003158	Extract Ichor	아이커 추출				
+UI_20180517_003159	Extract	추출				
+UI_20180517_003160	{s22}The item was destroyed.	{s22}아이템이 파괴되었습니다.				
+UI_20180517_003161	{@st43b}{s18}Potential	{@st43b}{s18}포텐셜				
+UI_20180517_003162	{@st43b}{s18}Options Extracted	{@st43b}{s18}추출 옵션				
+UI_20180517_003163	Dismantle Legend Item	레전드 아이템 분해				
+UI_20180517_003164	Dismantle	분해				
+UI_20180517_003165	Apply Set Stats	세트 옵션 부여				
+UI_20180517_003166	{@st43}Craft Legend Equipment{/}	{@st43}레전드 장비 제작{/}				
+UI_20180517_003167	{@st59}Close Legend item crafting UI.{/}	{@st59}레전드 아이템 제작 UI를 닫습니다{/}				
+UI_20180517_003168	{@st42b}Show equippable items only	{@st42b}착용 가능한 목록만 보기				
+UI_20180517_003169	{@st43b}{s15}{#ffbf11}Point Difference	{@st43b}{s15}{#ffbf11}점수차				
+UI_20180517_003170	{@st43b}{s16}%s Points	{@st43b}{s16}%s 포인트				
+UI_20180517_003171	Obtained [ %s] Badges	증표 [ %s 개] 획득				
+UI_20180517_003172	{@st66d}{s20}Returning in %s seconds.{/}	{@st66d}{s20}%s초 후에 귀환됩니다.{/}				
+UI_20180517_003173	{@st66d}Return{/}	{@st66d}귀환{/}				
+UI_20180517_003174	If you undo your current class advancement,{nl}the advancement will be undone and{nl}{@st66d_y}your current class EXP will disappear.{/}{/}	현재 클래스의 전직을 취소하고 전직 이전으로 되돌아가며{nl}{@st66d_y}클래스 경험치는 사라집니다.{/}{/}	UI_20171128_002965	If you undo your current class advancement, the advancement will be undone and your current class EXP will disappear.{/}	현재 클래스의 전직을 취소하고 전직 이전으로 되돌아가며{nl}클래스 경험치는 사라집니다.{/}	
+UI_20180517_003175	{@st45tw2}Conditions and Precautions{/}	{@st45tw2}조건 및 주의 사항{/}	UI_20161221_002511	{@st66d_y}Conditions and Precautions{/}	{@st66d_y}조건 및 주의 사항{/}	
+UI_20180517_003176	{@st66b}Respawn in Guild Tower{/}	{@st66b}길드 타워에서 부활하기{/}				
+UI_20180517_003177	{@st59}Guild Promotion (Alt + R){/}	{@st59}길드 홍보 (Alt + R){/}				
+UI_20180517_003178	{@st66b}Auto Cell Selection{/}	{@st66b}자동 셀 선택{/}				
+UI_20180517_003179	{@st66b}Cell Movement Speed (%s){/}	{@st66b}셀 이동 속도 (%s){/}				
+UI_20180517_003180	{@st43}Purchase List{/}	{@st43}구매 목록{/}				
+UI_20180517_003181	{@st66d_y}{s18}[Probability Items]	{@st66d_y}{s18}[확률형 아이템]				
+UI_20180517_003182	{@st66d}{s18}[Non-probability Items]	{@st66d}{s18}[비확률형 아이템]				
+UI_20180517_003183	{img impossible_red 17 17}Equip Restrictions	{img impossible_red 17 17} 착용 제한				
+UI_20180517_003184	{img impossible_yellow 17 17}One Purchase Only	{img impossible_yellow 17 17} 구매 횟수 1회 제한				
+UI_20180517_003185	{img icon_item_tpBox_30 36 36}%s TP will be consumed.	{img icon_item_tpBox_30 36 36}%s TP가 소모됩니다.				
+UI_20180517_003186	Probability Message	확률형 메세지				
+UI_20180517_003187	{@st66b}Yes{/}	{@st66b}예{/}				
+UI_20180517_003188	{@st66b}No{/}	{@st66b}아니오{/}				
+UI_20180517_003189	{@st66w}Show all tabs{/}	{@st66w}모든 맵 표시{/}				
+UI_20180517_003190	{@st66b}In-game, your character and team names will be displayed like this:{nl} 	{@st66b}인 게임에서 캐릭터 이름, 팀 이름 배치 순서는 아래 이미지와 같이{nl}예) 	UI_20170912_002895	{@st66b}Your Team name represents all your characters and is used in trading, Guilds, chat, etc.{nl}Changing your Team name consumes 150 TP, so choose it carefully.{/}	{@st66b}팀 이름은 모든 캐릭터를 대표하는 이름이며, 거래, 길드 가입, 대화 등에 사용되는 공용 이름입니다.{nl}팀 이름 변경에는 150TP가 소모되니 신중히 입력해 주세요.{/}	
+UI_20180517_003191	CharacterName TeamName	캐릭터이름 팀이름				
+UI_20180517_003192	 .{nl}{img exemple_img_teamname}{nl}Your Team name represents all your characters and is used in trading, Guilds, chat, etc.{nl}Changing your Team name consumes 150 TP, so choose it carefully.{/}	 순서로 배치됩니다.{nl}{img exemple_img_teamname}{nl}팀 이름은 모든 캐릭터를 대표하는 이름이며, 거래, 길드 가입, 대화 등에 사용되는 공용 이름입니다.{nl}팀 이름 변경에는 150TP가 소모되니 신중히 입력해 주세요.{/}				
+UI_20180517_003193	N/A	{@st59}유라테 - 시즌 서버가 아우슈리네 서버로 통합되었습니다.{nl}바카리네, 라이마, 제미나, 가비야 - 바이보라 서버로 통합되었습니다.{/}	UI_20161214_002498	{@st59}Please select a server.{/}	{@st59}유라테 - 시즌 서버가 아우슈리네 서버로 통합되었습니다.{nl}자세한 내용은 홈페이지 공지사항을 참고해주세요.{nl}바카리네, 라이마, 제미나, 가비야 서버는 7/14(목) 바이보라 서버로 통합되었습니다.{/}	
+UI_20180517_003194	N/A	{@st59}접속을 원하는 서버를 선택하여 주세요.{nl}유라테 - 시즌 서버가 아우슈리네 서버로 통합되었습니다.{nl}바카리네, 라이마, 제미나, 가비야 - 바이보라 서버로 통합되었습니다.{/}	UI_20160811_002310	{@st59}Please select a server.{nl}The Vakarine, Laima, Zemyna, Gabija servers have been merged into the Vaivora server.{/}	{@st59}접속을 원하는 서버를 선택하여 주세요.{nl}바카리네, 라이마, 제미나, 가비야 서버가 바이보라 서버로 통합되었습니다.{/}	
+UI_20180517_003195	{@st41b}{s14}{#ffffff}Normal	{@st41b}{s14}{#ffffff}노말				
+UI_20180517_003196	{@st41b}{s14}{#0e7fe8}Magic	{@st41b}{s14}{#0e7fe8}매직				
+UI_20180517_003197	{@st41b}{s14}{#a124d0}Rare	{@st41b}{s14}{#a124d0}레어				
+UI_20180517_003198	{@st41b}{s14}{#d92400}Unique	{@st41b}{s14}{#d92400}유니크				
+UI_20180517_003199	{@st41b}{s14}{#ffa800}Legend	{@st41b}{s14}{#ffa800}레전드				
+UI_20180517_003200	Cannot transcend	초월 불가				
+UI_20180517_003201	Cannot extract	추출 불가				
+UI_20180517_003202	Cannot extract sockets	소켓 추출 불가				
+UI_20180517_003203	Main Weapon	주무기				
+UI_20180517_003204	Armor	갑옷				
+UI_20180517_003205	Bottom	바지				
+UI_20180517_003206	{@st41b}{s18}Item Set	{@st41b}{s18}아이템 세트				
+UI_20180517_003207	{@st41b}{s16}Set Stats	{@st41b}{s16}세트 옵션				
+UI_20180517_003208	Exchange	교환				
+UI_20180517_003209	{@st66d}Player Name{/}	{@st66d}유저이름{/}				
+UI_20180517_003210	{@st66}{s18}Write{/}	{@st66}{s18}작성{/}				
+UI_20180517_003211	Weight: %s	무게: %s				
+UI_20180517_003212	Total Characters 	캐릭터 수 				
+UI_20180517_003213	I want to join	가입시켜주세요				
+UI_20180517_003214	Character Class	캐릭터 직업				
+UI_20180517_003215	Character Contribution	캐릭터 기여				
+UI_20180517_003216	Team Storage Slots +30	팀 창고 +30칸 증가				
+UI_20180523_003217	{@st41_yellow}{s70}Victory 	{@st41_yellow}{s70}승리				
+UI_20180523_003218	{@st41_yellow}{s70}Defeat	{@st41_yellow}{s70}패배				
+UI_20180528_003219	{s30}Important	{s30}주의				
+UI_20180528_003220	{@st41b}{img icon_button_warning 36 36}Yes	{@st41b}{img icon_button_warning 36 36}예				
+UI_20180629_003221	{@st41d}               Lodge	{@st41d}               숙소				
+UI_20180629_003222	{@st66d}{s20}%s {@st66d_y}{s20}%s{@st66b}{s18}{nl}Change Lodge?	{@st66d}{s20}%s {@st66d_y}{s20}%s{@st66b}{s18}의{nl}숙소를 이동하겠습니까?				
+UI_20180629_003223	{@st66b}Yes	{@st66b}예				
+UI_20180629_003224	{@st66b}No	{@st66b}아니오				
+UI_20180629_003225	{@st43}Barber Shop (M)	{@st43}바버샵(남)				
+UI_20180629_003226	{@st43}Barber Shop (F)	{@st43}바버샵(여)				
+UI_20180629_003227	{@st43}Boutique (M)	{@st43}부티크(남)				
+UI_20180629_003228	{@st43}Boutique (F)	{@st43}부티크(여)				
+UI_20180629_003229	{@st43}Barber Shop - Wigs (M)	{@st43}바버샵 - 가발(남)				
+UI_20180629_003230	{@st43}Barber Shop - Wigs (F)	{@st43}바버샵 - 가발(여)				
+UI_20180629_003231	{@st43}Boutique - Cubes	{@st43}부티크 - 패키지				
+UI_20180629_003232	{@st43}Barber Shop - Lenses	{@st43}바버샵 - 렌즈				
+UI_20180629_003233	Show equippable items only	착용 가능한 물품만 보기				
+UI_20180629_003234	Select Color	컬러 선택				
+UI_20180629_003235	{img barbershop_scissors_pic 41 36}{@st66b}Select a hairstyle to view the color list.{/}	{img barbershop_scissors_pic 41 36}{@st66b}헤어 선택 시 염색 리스트가 표시 됩니다.{/}				
+UI_20180629_003236	{@st43b}{s20}Preview and Purchase{/}	{@st43b}{s20}미리보기 및 구매{/}				
+UI_20180629_003237	{@st59}Wigs{/}	{@st59}가발{/}				
+UI_20180629_003238	{@st59}Wigs and Dyes{/}	{@st59}가발 염색약{/}				
+UI_20180629_003239	{@st59}Toys{/}	{@st59}장난감{/}				
+UI_20180629_003240	{@st66}{s18}Try On{/}	{@st66}{s18}입어보기{/}				
+UI_20180629_003241	{@st41b}{s17}Hair Costumes	{@st41b}{s17}헤어 코스튬				
+UI_20180629_003242	You can hide/show all of your currently equipped hair costumes.	캐릭터가 착용 중인 헤어 코스튬 모두를 보이기/안보이기 할 수 있습니다.				
+UI_20180629_003243	   Current TP{/}	   보유중인 TP{/}				
+UI_20180629_003244	   Remaining TP{/}	   잔여 TP{/}				
+UI_20180629_003245	Now Wearing	입어보기 목록				
+UI_20180629_003246	{@st59}Close the list.{/}	{@st59}입어보기 목록을 닫습니다{/}				
+UI_20180629_003247	{@st66b}Current TP	{@st66b}소지 TP				
+UI_20180629_003248	{@st66b}Purchase List	{@st66b}물품 가격				
+UI_20180629_003249	{@st66}- Hair Coupons	{@st66}-헤어 쿠폰				
+UI_20180629_003250	{@st66}- Dye Coupons	{@st66}-염색 쿠폰				
+UI_20180629_003251	{@st66b}{#a70000}Total	{@st66b}{#a70000}결제 TP				
+UI_20180629_003252	{@st66}{s18}Purchase all listed items?	{@st66}{s18}위 아이템을 구매하시겠습니까?				
+UI_20180629_003253	{ol}Open coupon list.	{ol}쿠폰 리스트를 엽니다.				
+UI_20180629_003254	{@st66b}Remaining TP	{@st66b}잔여 TP				
+UI_20180629_003255	{@st66d}To the Shop{/}	{@st66d}샵으로{/}				
+UI_20180629_003256	{@st66d}Purchase{/}	{@st66d}구매{/}				
+UI_20180629_003257	{s17}Coupon List	{s17}쿠폰 목록				
+UI_20180629_003258	{@st66b}Use	{@st66b}사용				
+UI_20180629_003259	{@st43}Barber Shop Coupon Book	{@st43}바버샵 쿠폰북				
+UI_20180629_003260	Exchange Stamps	스탬프로 아이템 교환				
+UI_20180629_003261	※{b}{ol}{#c21917}Stamps are consumed when you exchange them.{/}{/}{/}{nl}Each type of coupon consumes a different number of stamps.	※{b}{ol}{#c21917}아이템 교환 시 스탬프가 소모{/}{/}{/}되며,{nl}소모되는 스탬프의 개수는 아이템에 따라 다르게 소모됩니다.				
+UI_20180629_003262	{img barbershop_couponbook_stamp 30 30} %s stamps	{img barbershop_couponbook_stamp 30 30} %s 개 소지				
+UI_20180629_003263	{@st59}Close weapon appearance UI.{/}	{@st59}무기 외형 변환 UI를 닫습니다{/}				
+UI_20180629_003264	{@st43}Change Weapon Appearance{/}	{@st43}무기 외형 변환{/}	UI_20150323_001291	{@st43}Briquetting{/}	{@st43}브리케팅{/}	
+UI_20180629_003265	{@st66b}Current Potential	{@st66b}현재 포텐셜				
+UI_20180629_003266	{@st42}Extract Materials	{@st42}외형 추출 소재 무기				
+UI_20180629_003267	{@st42}Weapon to Extract	{@st42}외형 추출할 무기	UI_20150323_001293	Consumable Material	소비 재료	
+UI_20180629_003268	{@st42}Keep Potential	{@st42}포텐셜 소실 방지				
+UI_20180629_003269	{img silver 20 20}Price	{img silver 20 20}가격				
+UI_20180629_003270	If left unchecked, your item's Potential will be reduced.{nl}Does not consume Silver.	포텐셜 소실 방지 체크 해제시 포텐셜이 감소합니다.{nl} 실버는 소모되지 않습니다.				
+UI_20180629_003271	Please register a core or a weapon which appearance you wish to keep.	코어 또는 외형추출 할 무기와 동일한 아이템을 넣어주세요.				
+UI_20180629_003272	{@st43b}{s20}OK	{@st43b}{s20}확 인				
+UI_20180629_003273	Update message board.	한줄게시판을 업데이트합니다.				
+UI_20180629_003274	Awakening Shop	각성 상점 개설				
+UI_20180629_003275	{@st42}Close Shop	{@st42}폐 점				
+UI_20180629_003276	{@st42}Awaken	{@st42}각 성				
+UI_20180629_003277	Material	재료이름				
+UI_20180629_003278	{@st42}Open Shop	{@st42}개 설				
+UI_20180629_003279	{@st41d}{b}{ol}{s14}{img icon_item_silver 22 22} Acquired Silver: %s%s	{@st41d}{b}{ol}{s14}{img icon_item_silver 22 22}실버를 획득했습니다 : %s%s				
+UI_20180629_003280	{#fde43f}{b}{ol}{s14}Acquired Character EXP: %s	{#fde43f}{b}{ol}{s14}캐릭터 경험치를 획득했습니다 : %s				
+UI_20180629_003281	{#fde43f}{b}{ol}{s14}Acquired Class EXP: %s	{#9def5a}{b}{ol}{s14}클래스 경험치를 획득했습니다 : %s				
+UI_20180629_003282	Artisan Magnifier	장인의 돋보기				
+UI_20180629_003283	Re-identify	재감정				
+UI_20180629_003284	{@st66}{s16}{nl}Select	{@st66}{s16}{nl}선택				
+UI_20180629_003285	{@st41b}{s18}Current Magnifiers: %s	{@st41b}{s18}현재 돋보기 보유 개수: %s개				
+UI_20180629_003286	{@st66}{s18}Consumes Artisan Magnifier x%s.	{@st66}{s18}장인의 돋보기 %s개가 소비됩니다.				
+UI_20180629_003287	Mysterious Magnifier	신비한 돋보기				
+UI_20180629_003288	{@st66}{s18}Consumes Mysterious Magnifier x%s.	{@st66}{s18}신비한 돋보기 %s개가 소비됩니다.				
+UI_20180629_003289	{@st43}Cube List{/}	{@st43}패키지 리스트{/}				
+UI_20180629_003290	Quantity	구매 수량				
+UI_20180629_003291	{@st41b}{s16}{nl}Add to Cart	{@st41b}{s16}{nl}담기				
+UI_20180629_003292	{s22}%s defeated	{s22}%s 처치				
+UI_20180629_003293	{s22}%s points	{s22}%s 점				
+UI_20180629_003294	{s26}%s Badges	{s26}증표 [ %s 개] 획득				
+UI_20180629_003295	Ranking	랭킹 이름				
+UI_20180629_003296	{@st66b}Last Week 	{@st66b}지난 주 				
+UI_20180629_003297	{@st59}See last week's ranking.{/}	{@st59}저번 주 랭킹을 보여줍니다{/}				
+UI_20180629_003298	{@st66b}This Week 	{@st66b}이번 주 				
+UI_20180629_003299	{@st59}See this week's ranking. Updated every hour.{/}	{@st59}이번 주 랭킹을 보여줍니다. 1시간마다 갱신됩니다.{/}				
+UI_20180629_003300	{@st59}Close solo dungeon ranking.{/}	{@st59}1인던전 순위표를 닫습니다{/}				
+UI_20180629_003301	Remnants of Bernice Ranking	베르니케의 파편 순위				
+UI_20180629_003302	{@st66d}Rewards	{@st66d}보상안내				
+UI_20180629_003303	{@st66b}Top 10 ranking players receive a{nl}{#003997}"Dimensional Incense Burner"{/} for the previous week's rankings.{nl}Players who participated in the week receive a set of{nl}{#003997}"Dimensional Potions"{/} according to their score.{nl} {nl}{s13}The week starts every Monday at 06:00 (server time).	{@st66b}랭킹 TOP 10 구원자분들에게는{nl}{#003997} "차원의 향로"{/}아이템을 전 시즌 랭킹 보상으로 지급하며 시즌에 참여한 구원자 분들께는 자신의 기록에 비례한 수량의{nl}{#003997} "차원의 포션"{/}{nl}을 보상으로 지급합니다.{nl} {nl}{s13}시즌은 매주 월요일 06시에 초기화 됩니다				
+UI_20180629_003304	{@st66b}Swordsman	{@st66b}전사				
+UI_20180629_003305	{@st66b}Wizard	{@st66b}마법사				
+UI_20180629_003306	{@st66b}Archer	{@st66b}궁수				
+UI_20180629_003307	{@st66b}Cleric	{@st66b}성직자				
+UI_20180629_003308	{@st66d}Claim Last Week's Rewards	{@st66d}지난 주 보상 받기				
+UI_20180629_003309	Guild Name	길드명				
+UI_20180629_003310	Class Tree	직업 트리				
+UI_20180629_003311	Highest Stage	최고 스테이지				
+UI_20180629_003312	Monster Kills	몬스터 처치 수				
+UI_20180629_003313	Highest Stage: %s	최고 기록 스테이지 : %s 스테이지				
+UI_20180629_003314	Most Monster Kills: %s	최고 기록 처치 몬스터 수 : %s 마리				
+UI_20180629_003315	Highest Ranking: %s	최고 기록 랭킹 : %s				
+UI_20180629_003316	Current Stage: %s	현재 스테이지 : %s 스테이지				
+UI_20180629_003317	Monsters Defeated: %s	처치 몬스터 수 : %s 마리				
+UI_20180629_003318	Current Ranking: %s	현재 기록 랭킹 : %s				
+UI_20180629_003319	{@st66b}{s16}All	{@st66b}{s16}전체				
+UI_20180629_003320	{@st66b}{s16}Swordsman	{@st66b}{s16}전사				
+UI_20180629_003321	{@st66b}{s16}Wizard	{@st66b}{s16}마법사				
+UI_20180629_003322	{@st66b}{s16}Archer	{@st66b}{s16}궁수				
+UI_20180629_003323	{@st66b}{s16}Cleric	{@st66b}{s16}성직자				
+UI_20180629_003324	Returning to town soon.	잠시후 마을로 돌아갑니다				
+UI_20180629_003325	{@st42}{s18}{nl}Go Back{nl}	{@st42}{s18}{nl}돌아가기{nl}				
+UI_20180629_003326	Wig Dye	가발 염색				
+UI_20180629_003327	Current Qtt	소지 개수				
+UI_20180629_003328	Important {img tip_questionmark 20 20}	주의 사항 {img tip_questionmark 20 20}				
+UI_20180629_003329	Please unequip all your equipment first.{nl}Basic class costumes change gender automatically.{/}{nl}{@st67}{#fe7e00}{b}Gendered premium costumes{nl}will no longer fit your character after the gender switch.{/}	모든 장비 해제 한 뒤에 전환 가능{nl}기본 직업별 코스튬은 성별 자동 변경{/}{nl}{@st67}{#fe7e00}{b}기존 성별에 맞게 구매한 유료코스튬은{nl}성별 변환 후, 장착 불가{/}				
+UI_20180629_003330	{@st66b}Show Team Name Only{/}	{@st66b}팀 이름만 보기{/}	UI_20150714_001630	{@st66b}Show Only Team Name{/}	{@st66b}팀 이름만 표시{/}	
+UI_20180629_003331	{@st66b}Show Party Name{/}	{@st66b}파티 이름 보기{/}	UI_20170912_002889	{@st66b}Show Party Name{/}	{@st66b}파티 이름 표시{/}	
+UI_20180629_003332	{@st66b}Show Other Characters' Names{/}	{@st66b}다른 캐릭터 이름 보기{/}	UI_20150714_001631	{@st66b}Show Other Players' Names{/}	{@st66b}다른 캐릭터 이름 표시{/}	
+UI_20180629_003333	{@st66b}Show HP/SP Under Characters{/}	{@st66b}캐릭터 아래에 HP, SP 보기{/}	UI_20170726_002701	{@st66b}Show HP/SP Under Character{/}	{@st66b}캐릭터 아래에 HP, SP 표시{/}	
+UI_20180629_003334	{@st66b}Show Drop Item Names{/}	{@st66b}드롭 아이템 이름 보기{/}	UI_20180208_003014	{@st66b}Show Drop Item Name{/}	{@st66b}드롭 아이템 이름 표시{/}	
+UI_20180629_003335	{@st66b}Show Acquired Silver Alert{/}	{@st66b}획득한 실버량 보기{/}				
+UI_20180629_003336	{@st66b}Show Acquired EXP Alert{/}	{@st66b}획득한 경험치 보기{/}				
+UI_20180629_003337	{@st66b}Show Party's Summon Names{/}	{@st66b}파티원 소환물 이름 보기{/}				
+UI_20180629_003338	{@st66b}Show Tile Range{/}	{@st66b}장판 범위 보기{/}	UI_20170912_002893	{@st66b}Show Tile Range{/}	{@st66b}장판 범위 표시{/}	
+UI_20180629_003339	{@st66b}Flute Volume (%s){/}	{@st66b}피리 연주 크기 (%s){/}				
+UI_20180629_003340	{@st66b}Hear Other Characters' Flutes{/}	{@st66b}다른 캐릭터 피리 연주 듣기{/}				
+UI_20180629_003341	{@st59}Uncheck if you don't want to hear other characters' flutes.{/}	{@st59}다른 캐릭터의 피리 연주를 듣지 않으려면 체크를 해제해주세요.{/}				
+UI_20180629_003342	{@st66b}Show Frame Data (FPS){/}	{@st66b}성능 수치(FPS) 보기{/}				
+UI_20180629_003343	{@st59}Displays current fps.{/}	{@st59}성능 수치를 표시합니다{/}				
+UI_20180629_003344	{@st66b}Premium{/}	{@st66b}프리미엄{/}	UI_20161005_002329	{@st66b}Shop{/}	{@st66b}상점{/}	
+UI_20180629_003345	{@st66b}Cosmetic{/}	{@st66b}꾸미기{/}				
+UI_20180629_003346	{@st43}Enter Beauty Shop{/}	{@st43}뷰티 샵으로 이동{/}				
+UI_20180629_003347	{s14}Beauty Shop Test	{s14}뷰티샵 테스트				
+UI_20180629_003348	Fixed Camera	카메라 고정				
+UI_20180629_003349	Cancel Fixed Camera	카메라 고정 해제				
+UI_20180629_003350	Open Hair Shop (F)	헤어샵 열기(여)				
+UI_20180629_003351	Open Hair Shop (M)	헤어샵 열기(남)				
+UI_20180629_003352	Hair Shop List (F)	헤어샵 목록(여)				
+UI_20180629_003353	Hair Shop List (M)	헤어샵 목록(남)				
+UI_20180629_003354	Equip Preview_ALL	미리보기 장착_ALL				
+UI_20180629_003355	Equip Preview_Hair	미리보기 장착_Hair				
+UI_20180629_003356	Equip Preview_Costume	미리보기 장착_Costume				
+UI_20180629_003357	Open Costume Shop (F)	코스튬샵 열기(여)				
+UI_20180629_003358	Open Costume Shop (M)	코스튬샵 열기(남)				
+UI_20180629_003359	Costume Shop List (F)	코스튬샵 목록(여)				
+UI_20180629_003360	Costume Shop List (M)	코스튬샵 목록(남)				
+UI_20180629_003361	Open Simple List	간소화 목록 열기				
+UI_20180629_003362	Simple List Item Settings	간소화 목록 아이템 설정				
+UI_20180629_003363	Open Wig Shop (F)	가발샵 열기(여)				
+UI_20180629_003364	Open Wig Shop (M)	가발샵 열기(남)				
+UI_20180629_003365	Wig Shop List (F)	가발샵 목록(여)				
+UI_20180629_003366	Wig Shop List (M)	가발샵 목록(남)				
+UI_20180629_003367	Open Others	기타샵 열기				
+UI_20180629_003368	Others List	기타샵 목록				
+UI_20180629_003369	Purchase Test	구매 테스트				
+UI_20180629_003370	{@st66}{nl}Delete Character	{@st66}{nl}캐릭터 삭제				
+UI_20180629_003371	{@st66}{nl}Move Lodge	{@st66}{nl}숙소 이동				
+UI_20180629_003372	{@st66}{nl}New Character	{@st66}{nl}새 캐릭터 만들기				
+UI_20180629_003373	Cannot transfer appearance	외형 변경 불가				
+UI_20180629_003374	Basic{/}	기본{/}	UI_20151016_001817	%s Characters{/}	정원%s명{/}	
+UI_20180629_003375	{#003997}{b}Stage Clear: %s	{#003997}{b}클리어 스테이지: %s				
+UI_20180629_003376	{ol}Add to Cart	{ol}장바구니에 담기				
+UI_20180629_003377	Current Items	소지 중인 아이템				
+UI_20180629_003378	{@st41b}{S16}%s% Discount Coupon	{@st41b}{S16}%s% 할인 쿠폰				
+UI_20180629_003379	{@st41b}{s16}{nl}Exchange	{@st41b}{s16}{nl}교환				
+UI_20180704_003380	Please register a Weapon Appearance Material or equivalent items.	무기 외형 변환 소재 또는 외형추출 할 무기와 동일한 아이템을 넣어주세요.	UI_20180629_003271	Please register a core or a weapon which appearance you wish to keep.	코어 또는 외형추출 할 무기와 동일한 아이템을 넣어주세요.	
+UI_20180723_003381	{@st42}{s20}Victory Rewards	{@st42}{s20}점령 보상				
+UI_20180723_003382	Seizing Date	점령일				
+UI_20180723_003383	Victory Rewards	점령 보상				
+UI_20180723_003384	ⓘ Victory rewards are applied 1 hour after the end of each GTW session.{nl}ⓘ Only the Guild Master can retrieve these rewards. The items are sent to your Guild Storage.	ⓘ 점령 보상 목록은 콜로니전 종료 후 1시간 뒤에 갱신됩니다.{nl}ⓘ 보상 수령은 길드마스터만 가능하며, 수령된 아이템은 길드 보관함으로 이동됩니다.				
+UI_20180723_003385	{@st41b}{s16}Victory Rewards	{@st41b}{s16}점령 보상				
+UI_20180723_003386	{@st42}{s16}Receive	{@st42}{s16}받기				
+UI_20180809_003387	{@st41b}Open Voucher	{@st41b}이용권을 사용하여 개봉하기				
+UI_20180827_003388	{@st59}System Messages{/}	{@st59}시스템 메시지{/}				
+UI_20180827_003389	{@st59}Combat Messages{/}	{@st59}전투 메시지{/}				
+UI_20180827_003390	{@st42}{s18}Chat Settings	{@st42}{s18}채팅 설정				
+UI_20180827_003391	Screen	화면				
+UI_20180827_003392	See login alerts	접속 알림 표시				
+UI_20180827_003393	Combat message settings	전투 메시지 설정				
+UI_20180827_003394	Damage taken	입은 피해				
+UI_20180827_003395	Damage dealt	가한 피해				
+UI_20180827_003396	Skill use	스킬 사용				
+UI_20180827_003397	Death/respawn	사망/부활				
+UI_20180827_003398	Party death/respawn	파티원의 사망/부활				
+UI_20180827_003399	Max. character level	최고 캐릭터 레벨				
+UI_20180827_003400	{@st59}Request quick slot data again.{/}	{@st59}퀵슬롯 정보를 다시 요청합니다.{/}				
+UI_20180827_003401	{@st66b18}Retrieve	{@st66b18}완료				
+UI_20180827_003402	{@st66b18}Sell	{@st66b18}판매				
+UI_20180827_003403	{@st66b18}Buy	{@st66b18}구매				
+UI_20180827_003404	{@st66b}{s18}Category	{@st66b}{s18}카테고리				
+UI_20180827_003405	{@st66b}{s18}Name{/}	{@st66b}{s18}이름{/}				
+UI_20180827_003406	{@st66b}{s18}Level{/}	{@st66b}{s18}레벨{/}				
+UI_20180827_003407	{@st66b}{s18}Price{/}	{@st66b}{s18}단가{/}				
+UI_20180827_003408	{@st66b}{s18}Quantity{/}	{@st66b}{s18}구매 개수{/}				
+UI_20180827_003409	{@st66b}{s18}Total Amount{/}	{@st66b}{s18}총 금액{/}				
+UI_20180827_003410	{@st66b}{s18}Stats{/}	{@st66b}{s18}능력치{/}				
+UI_20180827_003411	{@st66b}{s18}Sockets{/}	{@st66b}{s18}소켓{/}				
+UI_20180827_003412	{@st66b}{s18}Potential{/}	{@st66b}{s18}포텐셜{/}				
+UI_20180827_003413	{@st66b}{s18}Amount{/}	{@st66b}{s18}금액{/}				
+UI_20180827_003414	{@st66b}{s18}Enchant Stats{/}	{@st66b}{s18}인챈트 옵션{/}				
+UI_20180827_003415	{@st66b}{s18}Roasting Level{/}	{@st66b}{s18}로스팅 레벨{/}				
+UI_20180827_003416	{@st66b}{s18}EXP{/}	{@st66b}{s18}경험치{/}				
+UI_20180827_003417	{@st66b}{s18}Quantity{/}	{@st66b}{s18}구매개수{/}				
+UI_20180827_003418	{@st66b}{s18}Materials{/}	{@st66b}{s18}제작 재료{/}				
+UI_20180827_003419	{@st43b}{s18}Details{/}	{@st43b}{s18}상세옵션{/}				
+UI_20180827_003420	{@st66b}{s18}Total Amount{/}	{@st66b}{s18}총금액{/}				
+UI_20180827_003421	{@st66b}{s18}Wait Period{/}	{@st66b}{s18}대기 시간{/}				
+UI_20180827_003422	{@st66b}{s18}Status{/}	{@st66b}{s18}상태{/}				
+UI_20180827_003423	Retrieve {#002d93}Silver{/}{/} from the sale of {#8e0000}[%s%s] x%s{/}{/}? Total:{#8e0000}%s{/}{/}	{#8e0000}[%s%s]{/}{/}아이템 {#8e0000}[%s개]{/}{/}의{nl}판매금액 {#002d93}%s실버{/}{/}를 수령하겠습니까?				
+UI_20180827_003424	{@st41b}Receive	{@st41b}받기				
+UI_20180827_003425	Retrieve {#8e0000}[%s%s]{/} {#8e0000}x[%s]{/}?	{#8e0000}[%s%s]{/}아이템 {#8e0000}[%s개]{/} 를 수령하겠습니까?				
+UI_20180827_003426	Retrieve all items?	아이템을 모두 수령하겠습니까?				
+UI_20180827_003427	{@st41b}Item List	{@st41b}수령 목록				
+UI_20180827_003428	Please register an item.	아이템을 등록해주세요.				
+UI_20180827_003429	{@st66d}Register Item	{@st66d}아이템 등록				
+UI_20180827_003430	{@st66b}Max. Price▲{/}	{@st66b}상한가▲{/}				
+UI_20180827_003431	{@st66b}Min. Price▼{/}	{@st66b}하한가▼{/}				
+UI_20180827_003432	{@st66b}Lowest Price{/}	{@st66b}현재 최저 가격{/}				
+UI_20180827_003433	{@st66b}{s14}(%s Silver per unit)	{@st66b}{s14}(개당 %s실버)				
+UI_20180827_003434	{@st66}Registration fees:	{@st66}등록 수수료:				
+UI_20180827_003435	{@st66}Total price:	{@st66}총 판매 가격:				
+UI_20180827_003436	{@st66}Market fees:	{@st66}수수료:				
+UI_20180827_003437	{@st66}Final amount:	{@st66}최종 수령금:				
+UI_20180827_003438	{@st66}%s Day(s): %s% of the item price	{@st66}%s일: 판매 가격의 %s% 실버				
+UI_20180827_003439	{@st66}{s14}Silver obtained from selling items (except Tokens) can be retrieved from the Market after 48 hours.{/}	{@st66}{s14}토큰 아이템을 제외한 판매 아이템의{nl}정산된 실버는 48시간 후 수령할 수 있습니다.{/}				
+UI_20180827_003440	{@st66b}{s18}Fees{/}	{@st66b}{s18}수수료{/}				
+UI_20180827_003441	{@st66b}{s18}Time Remaining{/}	{@st66b}{s18}남은 시간{/}				
+UI_20180827_003442	{ds}{b}{#ffefd6}30 min: {#fe7e00}100 POINTS	{ds}{b}{#ffefd6}30분:{#fe7e00}100 POINT				
+UI_20180827_003443	Purchases (%s/%s){/}	구매 횟수 (%s/%s){/}				
+UI_20180827_003444	{@st42}{s20}Special %s	{@st42}{s20}PC방 %s				
+UI_20180827_003445	{@st66b}Special rewards delivered to your inventory.	{@st66b}PC방 접속보상이{nl}인벤토리로 지급됩니다.				
+UI_20180827_003446	{@st42b}{s16}Receive{/}	{@st42b}{s16}받기{/}				
+UI_20180827_003447	{@st42b}{s16}Cancel{/}	{@st42b}{s16}취소{/}				
+UI_20180827_003448	{@st42}{s22}Popo Points{@st42}	{@st42}{s22}PC방				
+UI_20180827_003449	{@st59}Retrieve the items again.{/}	{@st59}수령에 실패한 아이템을 다시 수령합니다.{/}				
+UI_20180827_003450	{img test_cooltime 25 25}{s18}Points resetting in %s day(s), %s hour(s), %s minute(s).{/}	{img test_cooltime 25 25}{s18}포인트 초기화까지 %s일 %s시간 %s분 남았습니다.{/}				
+UI_20180827_003451	{@st66b}Main{/}	{@st66b}메인{/}				
+UI_20180827_003452	{@st66b}Point Shop{/}	{@st66b}포인트 샵{/}				
+UI_20180827_003453	{@st66b}PP Gear Rental{/}	{@st66b}PC방 장비 대여{/}				
+UI_20180827_003454	{@st66b}Information{/}	{@st66b}안내{/}				
+UI_20180827_003455	{s14}※ You can accumulate a maximum of 20,000 points, which are reset every 3 months (Jan, Apr, Jul and Oct 1st at 06:00, server time).	{s14}※최대 20000포인트까지 누적되며, 매 분기(1,4,7,10월 1일 06시)마다 초기화 됩니다.				
+UI_20180827_003456	{s14}{@st42}Today's points: %s	{s14}{@st42}오늘 획득한 포인트: %s				
+UI_20180827_003457	Login Rewards	접속 보상				
+UI_20180827_003458	{s14}{@st42}Total login time: %s hr %s min	{s14}{@st42}누적 접속 시간: %s시간 %s분				
+UI_20180827_003459	No ongoing events.	진행중인 이벤트가 없습니다				
+UI_20180827_003460	{@st66b}   Regular{/}	{@st66b}   일반 상품{/}				
+UI_20180827_003461	{@st66b}   Rotational{/}	{@st66b}   로테이션 상품{/}				
+UI_20180827_003462	{@st66b}   Event{/}	{@st66b}   이벤트 상품{/}				
+UI_20180827_003463	Items Available	구입가능 목록				
+UI_20180827_003464	※ Items are updated every 3 months (1st day of Jan, Apr, Jul and Oct).	※매 분기마다(1,4,7,10월 1일) 상품이 갱신됩니다.				
+UI_20180827_003465	{@st66b}   Weapons{/}	{@st66b}   무기{/}				
+UI_20180827_003466	{@st66b}   Armor{/}	{@st66b}   방어구{/}				
+UI_20180827_003467	Items for Rental	대여가능 목록				
+UI_20180827_003468	Terms and Conditions	약관 안내				
+UI_20180827_003469	{s18}View timer on main screen	{s18}메인화면에서 타이머 표시하기				
+UI_20180827_003470	{@st66b}Reverb ON/OFF{/}	{@st66b}잔향효과 ON/OFF{/}				
+UI_20180827_003471	{@st59}Check to apply reverb.{/}	{@st59}잔향효과를 적용하려면 체크해 주세요.{/}				
+UI_20180827_003472	{@st66b}Enable Animated Illustrations	{@st66b}아이템 움직이는 일러스트 켜기				
+UI_20180827_003473	 Use item?	 아이템을{nl} 사용하시겠습니까?{/}				
+UI_20180827_003474	It will be removed from %s and applied only to %s.{/}	사용한 %s {nl}인벤토리에서 사라지며 현재 %s에만 적용됩니다.{/}				
+UI_20180827_003475	Enable Animated Illustrations	움직이는 일러스트 켜기				
+UI_20180827_003476	{@st41b}Purchase{/}	{@st41b}구매{/}				
+UI_20180827_003477	Search crafting materials.	제작서에 필요한 재료를 검색합니다.			
+UI_20180827_003478	{#002d93}Silver{/}{/} from {#8e0000}[%s %s] x%s{/}{/}: {#8e0000}[%s]{/}{/}	{#8e0000}[%s%s]{/}{/}아이템 {#8e0000}[%s개]{/}{/}의{nl}수령금액 {#002d93}%s실버{/}{/}				
+UI_20180827_003479	{#8e0000}[%s%s]{/} {#8e0000}x[%s]{/}	{#8e0000}[%s%s]{/} 아이템 {#8e0000}[%s개]{/}				
+UI_20180827_003480	1 day, 23 hours	1일23시간				
+UI_20180827_003481	Untradable	거래불가				
+UI_20180827_003482	{@st42b}{s16}Preview{/}	{@st42b}{s16}미리보기{/}				
